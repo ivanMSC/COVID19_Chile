@@ -1,0 +1,62 @@
+﻿ID;Fecha;Region_Numero;Region;Sexo;Edad;Centro_de_Salud;Comuna;lat;lon;Pais;Tipo_de_caso
+1;03-03-2020;9;Maule;Masculino;33;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+2;03-03-2020;9;Maule;Femenino;33;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+3;04-03-2020;7;Metropolitana;Femenino;56;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+4;05-03-2020;7;Metropolitana;Femenino;40;Clínica Santa María;Providencia;-33.4323177;-70.6279673;Chile;Confirmado
+5;06-03-2020;7;Metropolitana;Masculino;58;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+6;07-03-2020;7;Metropolitana;Masculino;17;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+7;07-03-2020;14;Los Lagos;Femenino;20;Hospital de Puerto Montt;Puerto Montt;-41.4491766;-72.9572697;Chile;Confirmado
+8;08-03-2020;7;Metropolitana;Femenino;83;Clínica Las Condes;Las Condes;-33.3848002;-70.5302759;Chile;Confirmado
+9;08-03-2020;7;Metropolitana;Masculino;14;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+10;08-03-2020;9;Maule;Masculino;39;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+11;09-03-2020;7;Metropolitana;Masculino;42;Clínica U. de Los Andes;Las Condes;-33.4055828;-70.5034723;Chile;Confirmado
+12;09-03-2020;9;Maule;Femenino;2;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+13;09-03-2020;11;Biobío;Masculino;38;Hospital de Los Ángeles;Los Ángeles;-37.4735237;-72.346625;Chile;Confirmado
+14;10-03-2020;7;Metropolitana;Masculino;40;Clínica U. de Los Andes;Las Condes;-33.4055828;-70.5034723;Chile;Confirmado
+15;10-03-2020;7;Metropolitana;Femenino;31;Clínica Santa María;Providencia;-33.4323177;-70.6279673;Chile;Confirmado
+16;10-03-2020;7;Metropolitana;Femenino;32;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+17;10-03-2020;9;Maule;Masculino;21;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+18;11-03-2020;7;Metropolitana;Femenino;58;Clínica Santa María;Providencia;-33.4323177;-70.6279673;Chile;Confirmado
+19;11-03-2020;7;Metropolitana;Femenino;48;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+20;11-03-2020;7;Metropolitana;Femenino;23;Hospital de Carabineros;Ñuñoa;-33.4498066;-70.608953;Chile;Confirmado
+21;11-03-2020;7;Metropolitana;Masculino;26;Red de Salud UC-Christus San Carlos de Apoquindo;Las Condes;-33.4003954;-70.5096496;Chile;Confirmado
+22;11-03-2020;9;Maule;Femenino;24;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+23;11-03-2020;9;Maule;Masculino;29;Hospital de Curicó;Curicó;-34.9899079;-71.2355018;Chile;Confirmado
+24;12-03-2020;7;Metropolitana;Femenino;46;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+25;12-03-2020;7;Metropolitana;Masculino;67;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+26;12-03-2020;7;Metropolitana;Femenino;31;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+27;12-03-2020;7;Metropolitana;Femenino;46;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+28;12-03-2020;7;Metropolitana;Masculino;23;Clínica Alemana;Vitacura;-33.3924402;-70.5730165;Chile;Confirmado
+29;12-03-2020;7;Metropolitana;Femenino;34;Clínica Tabancura;Vitacura;-33.3823479;-70.5354786;Chile;Confirmado
+30;12-03-2020;7;Metropolitana;Femenino;29;Clínica Las Condes;Las Condes;-33.3848002;-70.5302759;Chile;Confirmado
+31;12-03-2020;7;Metropolitana;Femenino;28;Clínica Las Condes;Las Condes;-33.3848002;-70.5302759;Chile;Confirmado
+32;12-03-2020;7;Metropolitana;Femenino;21;Laboratorio Integramédica;Las Condes;-33.3909085;-70.5461553;Chile;Confirmado
+33;12-03-2020;10;Ñuble;Masculino;29;Clínica de Chillán;Chillán;-36.6150947;-72.1075954;Chile;Confirmado
+34;13-03-2020;7;Metropolitana;Masculino;35;Clínica Red Salud Santiago;Estación Central;-33.4574432;-70.7016232;Chile;Confirmado
+35;13-03-2020;7;Metropolitana;Femenino;50;Clínica Tabancura;Vitacura;-33.3823479;-70.5354786;Chile;Confirmado
+36;13-03-2020;7;Metropolitana;Masculino;;Red Salud Vitacura;Vitacura;-33.3823479;-70.5354786;Chile;Confirmado
+37;13-03-2020;7;Metropolitana;Masculino;31;Clínica U. de Los Andes;Las Condes;-33.4055828;-70.5034723;Chile;Confirmado
+38;13-03-2020;7;Metropolitana;Masculino;47;Clínica Indisa;Providencia;-33.4214099;-70.6184727;Chile;Confirmado
+39;13-03-2020;7;Metropolitana;Masculino;39;Red de Salud UC-Christus San Carlos de Apoquindo;Las Condes;-33.4003954;-70.5096496;Chile;Confirmado
+40;13-03-2020;9;Maule;Femenino;38;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+41;13-03-2020;10;Ñuble;Masculino;16;Hospital de Chillán;Chillán;-36.6088176;-72.0921494;Chile;Confirmado
+42;13-03-2020;11;Biobío;Masculino;32;Clínica Universitaria;Concepción;-36.8004715;-73.0719198;Chile;Confirmado
+43;13-03-2020;11;Biobío;Masculino;34;Hospital G. Grant Benavente;Concepción;-36.8244454;-73.038594;Chile;Confirmado
+44;14-03-2020;3;Antofagasta;Femenino;58;Hospital Carlos Cisternas Calama;Calama;-22.4452001;-68.9181939;Chile;Confirmado
+45;14-03-2020;3;Antofagasta;Masculino;63;Hospital Carlos Cisternas Calama;Calama;-22.4452001;-68.9181939;Chile;Confirmado
+46;14-03-2020;4;Atacama;Masculino;50;Hospital de Copiapó;Copiapó;-27.3728556;-70.3219595;Chile;Confirmado
+47;14-03-2020;7;Metropolitana;Femenino;37;Laboratorio Integramédica;Las Condes;-33.3909085;-70.5461553;Chile;Confirmado
+48;14-03-2020;7;Metropolitana;Masculino;28;Pontificia Universidad Católica;Santiago;-33.4423071;-70.6405828;Chile;Confirmado
+49;14-03-2020;7;Metropolitana;Masculino;29;Red de Salud UC-Christus San Carlos de Apoquindo;Las Condes;-33.4003954;-70.5096496;Chile;Confirmado
+50;14-03-2020;7;Metropolitana;Masculino;28;Clínica U. de Los Andes;Las Condes;-33.4055828;-70.5034723;Chile;Confirmado
+51;14-03-2020;7;Metropolitana;Masculino;53;Clínica Indisa;Providencia;-33.4214099;-70.6184727;Chile;Confirmado
+52;14-03-2020;7;Metropolitana;Masculino;38;Laboratorio Integramédica;Las Condes;-33.3909085;-70.5461553;Chile;Confirmado
+53;14-03-2020;7;Metropolitana;Femenino;55;Laboratorio Bionet;Las Condes;-33.4039136;-70.5799187;Chile;Confirmado
+54;14-03-2020;7;Metropolitana;Femenino;51;Laboratorio Integramédica;Las Condes;-33.3909085;-70.5461553;Chile;Confirmado
+55;14-03-2020;7;Metropolitana;Femenino;23;Clínica Santa María;Providencia;-33.4323177;-70.6279673;Chile;Confirmado
+56;14-03-2020;7;Metropolitana;Masculino;36;Clínica Las Condes;Las Condes;-33.3848002;-70.5302759;Chile;Confirmado
+57;14-03-2020;7;Metropolitana;Femenino;58;Clínica Las Condes;Las Condes;-33.3848002;-70.5302759;Chile;Confirmado
+58;14-03-2020;9;Maule;Masculino;53;Hospital de Talca;Talca;-35.427058;-71.6461858;Chile;Confirmado
+59;14-03-2020;10;Ñuble;Masculino;23;Hospital de Chillán;Chillán;-36.6088176;-72.0921494;Chile;Confirmado
+60;14-03-2020;10;Ñuble;Masculino;23;Clínica de Chillán;Chillán;-36.6150947;-72.1075954;Chile;Confirmado
+61;14-03-2020;15;Aysén;Masculino;83;Hospital de Aysén;Coyhaique;-45.568608;-72.0735278;Chile;Confirmado
