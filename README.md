@@ -1,8 +1,9 @@
 # Léame
+Para ver el Panel Interactivo visite https://datastudio.google.com/reporting/b1689869-0c59-442c-951d-2991c0fc611d/
+
 Para descargar o conectarse a la base de datos directamente, usar la dirección pública https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv
 
 Aparentemente, el Ministerio cree que es una buena idea subir un PDF distinto todos los días con los casos reportados en un tabla horrenda. Por eso, en este repositorio dejo una tablita ordenada que intentaré mantener actualizada día a día.
-
 El archivo covid19_chile.csv es una base de datos de los casos reportados [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) por el Ministerio de Salud de Chile.
 
 Los campos de la base de datos son:
