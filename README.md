@@ -7,7 +7,7 @@ Para descargar o conectarse a la base de datos directamente, usar la dirección 
 Aparentemente, el Ministerio cree que es una buena idea subir un PDF distinto todos los días con los casos reportados en un tabla horrenda. Por eso, en este repositorio dejo una tablita ordenada que intentaré mantener actualizada día a día.
 El archivo covid19_chile.csv es una base de datos de los casos reportados [aquí](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) por el Ministerio de Salud de Chile.
 
-* Update: A contar de hoy 18-mar-2020 MinSal no reporta datos granulares con `Sexo`, `Edad` ni `Centro_de_Salud`. Solo reporta el total de  casos por `Region`. Por lo que a partir de esta fecha, la base de datos tendrá muchos espacios vacíos, pues llenarlos sería un trabajo periodístico herculéano.
+* Update: A contar de hoy 18-mar-2020 MinSal no reporta datos granulares con `Sexo`, `Edad` ni `Centro_de_Salud`. Solo reporta el total de  casos por `Region`. Por lo que a partir de esta fecha, la base de datos tendrá muchos espacios vacíos, pues llenarlos sería un trabajo periodístico herculeano.
 
 Los campos de la base de datos son:
 * `ID`: Número correlativo desde el primer caso. Comienza en `1`
