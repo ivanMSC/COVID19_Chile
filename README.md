@@ -9,6 +9,7 @@ El archivo covid19_chile.csv es una base de datos de los casos reportados [aquí
 
 ## Updates
 * `18-mar-2020`: A contar de hoy `18-mar-2020` MinSal no reporta datos granulares con `Sexo`, `Edad` ni `Centro_de_Salud`. Solo reporta el total de  casos por `Region`. Por lo que a partir de esta fecha, la base de datos tendrá muchos espacios vacíos, a menos que alguien quiera soltar la información.
+* `23-mar-2020`: Minsal no reporta los casos recuperados por `Region`, solo el total nacional. Por lo tanto, casos `Recuperado` tienen la región en blanco. `Gobierno inoperante`.
 
 ## Campos de la base de datos
 Los campos de la base de datos son:
