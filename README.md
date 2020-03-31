@@ -13,9 +13,10 @@ La base nueva, archivo con el mismo nombre `covid19_chile.csv`, en la misma ubic
 * `Acum Confirmado`
 * `Acum Muerte`
 * `Acum Recuperado`
+
 Los nombres de los campos no necesitan explicación. El campo `Region` puede tomar el valor `No informado` para incluir los casos recuperados que el gobierno se niega a entregar desglosados.
 
-# ANUNCIO 2
+# ANUNCIO 2 Base de datos de comunas
 Tenemos datos por comuna. En el archivo `covid19_comunas.csv` encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020. Qué tienen en la cabeza? A quién le sirve un PDF? Qué les cuesta subir un CSV? Si alguien del ministerio está leyendo esto, en realidad no me cuesta mucho scrapear un pdf con algo de kung fu, pero sería lo apropiado que subieran un csv. Mientras tanto, intentaré mantener el archivo actualizado en la medida que aparezcan más datos.
 
 ## Conectarse
