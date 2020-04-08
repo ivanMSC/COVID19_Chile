@@ -1,6 +1,5 @@
 ## Panel Interactivo
-Para ver el Panel Interactivo visite https://datastudio.google.com/reporting/b1689869-0c59-442c-951d-2991c0fc611d/
-
+Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
 
 # ANUNCIO 1: Base de datos ahora con nuevo formato.
 La base de datos original de este repositorio, actualizada hasta el 29-03-2020 ha sido movida a la carpeta `old` y no seguira su mantención. Esto pues, su contenido ya no tenía sentido.
