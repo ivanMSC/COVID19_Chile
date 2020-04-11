@@ -26,7 +26,14 @@ En el archivo `historial_comunas.csv` encontrará una serie de datos de los caso
 
 Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos y organismos regionales, por lo que pueden tener un corte horario distinto al del ministerio de Salud o por existir algunos casos que en el día de reporte se encuentran en investigación de comuna.
 
-Los campos del archivo no necesitan explicación. La región se especifica con norma ISO 3166-2.
+Los campos son:
+* `Fecha` en formato `dd-mm-yyyy`
+* `CUT` Código único territorial. Códigos especiales: `5999` = `Barco Isabela Island` en Valparaíso y `10999` = `Barco Silver Explorer` en Los Lagos. 
+* `Region` Código ISO 3166-2.
+* `Comuna`
+* `Confirmados Acumulados`
+
+Si alguna comuna no está es porque no ha reportado casos a la fecha de actualización. En la RM, se reportan los datos solo para los días lunes, miércoles y viernes desde el 30-mar-2020; y en los demás días no existe data.
 
 *Los números de la región de Valparaíso pueden ser no muy confiables, pues el Seremi ha reportado solo los casos nuevos y no los acumulados día a día, por lo que pueden haber discrepancias al totalizar la cuenta respecto de otras fuentes.
 
