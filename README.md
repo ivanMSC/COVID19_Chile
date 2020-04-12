@@ -22,8 +22,8 @@ Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos
 | ------------- | ------------- |
 | Metropolitana  | 30-mar-2020 y solo lun-mie-vie  |
 | Maule  | 29-mar-2020  |
-| Ñuble  | 29-mar-2020  |
-| Araucanía  | 29-mar-2020  |
+| Ñuble  | 28-mar-2020  |
+| Araucanía  | 23-mar-2020  |
 
 Las demás regiones están completas.
 
