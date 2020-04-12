@@ -1,5 +1,14 @@
-# Panel Interactivo
+## Panel Interactivo
 Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
+
+## Índice
+- [Base de datos nivel Comunal](#base-de-datos-nivel-comunal)
+  * [Datos Históricos y actualizaciones diarias](#datos-históricos-y-actualizaciones-diarias)
+  * [Datos MinSal Informe Epidemiológico](#datos-minsal-informe-epidemiológico)
+- [Base de datos nivel regional MinSal.](#base-de-datos-nivel-regional-minsal)
+- [Ministerio de Ciencia](#ministerio-de-ciencia)
+- [Base de datos del COVID-19 en toda Latinoamérica](#base-de-datos-del-covid-19-en-toda-latinoamérica)
+- [Conectarse](#conectarse)
 
 # Base de datos nivel Comunal
 
