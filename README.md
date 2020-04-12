@@ -22,11 +22,22 @@ Los nombres de los campos no necesitan explicación. El campo `Region` puede tom
 # Base de datos nivel Comunal
 
 ## Datos Históricos y actualizaciones diarias
-En el archivo `historial_comunas.csv` encontrará una serie de datos de los casos confirmados acumulados para cada region desglosados por comuna. Los historiales se encuentran completos para las regiones de: Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso*, O'Higgins, Los Lagos, Aysén y Magallanes. Para la región metropolitana, no existen datos históricos accesibles. Las demás regiones, ha sido difícil encontrar fuentes para datos anteriores al 29 de marzo, por lo que no poseen datos diarios antes de esa fecha. Si usted posee la información, le agradeceré compartirla para incluirla en este repositorio!
+En el archivo `historial_comunas.csv` encontrará una serie de datos de los casos confirmados acumulados para cada region desglosados por comuna. Los historiales se encuentran completos para las regiones de: Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso*, O'Higgins, Los Ríos, Los Lagos, Aysén y Magallanes. Para la región metropolitana, no existen datos históricos accesibles. Las demás regiones (Maule, Biobío, Ñuble y Araucanía) ha sido difícil encontrar fuentes para datos anteriores al 29 de marzo, por lo que hasta el momento, no tengo datos diarios antes de esa fecha. Si usted posee la información o alguna fuente, le agradeceré compartirla para incluir los datos en este repositorio!
 
 Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos y organismos regionales, por lo que pueden tener un corte horario distinto al del ministerio de Salud o por existir algunos casos que en el día de reporte se encuentran en investigación de comuna.
 
-Los campos son:
+### Regiones por completar 
+| Región | Datos desde |
+| ------------- | ------------- |
+| Metropolitana  | 30-mar-2020 y solo lun-mie-vie  |
+| Maule  | 29-mar-2020  |
+| Ñuble  | 29-mar-2020  |
+| Biobío  | 29-mar-2020  |
+| Araucanía  | 29-mar-2020  |
+
+Las demás regiones están completas.
+
+### Campos del archivo
 * `Fecha` en formato `dd-mm-yyyy`
 * `CUT` Código único territorial. Códigos especiales: `5999` = `Barco Isabela Island` en Valparaíso y `10999` = `Barco Silver Explorer` en Los Lagos. 
 * `Region` Código ISO 3166-2.
