@@ -13,7 +13,7 @@ Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
 # Base de datos nivel Comunal
 
 ## Datos Históricos y actualizaciones diarias
-En el archivo `historial_comunas.csv` encontrará una serie de datos de los casos confirmados acumulados para cada region desglosados por comuna. Los historiales se encuentran completos para las regiones de: Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso*, O'Higgins, Biobío, Los Ríos, Los Lagos, Aysén y Magallanes. Para la región metropolitana, no existen datos históricos accesibles. Las demás regiones (Maule, Ñuble y Araucanía) ha sido difícil encontrar fuentes para datos anteriores al 29 de marzo, por lo que hasta el momento, no tengo datos diarios antes de esa fecha. Si usted posee la información o alguna fuente, le agradeceré compartirla para incluir los datos en este repositorio!
+En el archivo `historial_comunas.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/historial_comunas.csv)) encontrará una serie de datos de los casos confirmados acumulados para cada region desglosados por comuna. Los historiales se encuentran completos para las regiones de: Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso*, O'Higgins, Biobío, Los Ríos, Los Lagos, Aysén y Magallanes. Para la región metropolitana, no existen datos históricos accesibles. Las demás regiones (Maule, Ñuble y Araucanía) ha sido difícil encontrar fuentes para datos anteriores al 29 de marzo, por lo que hasta el momento, no tengo datos diarios antes de esa fecha. Si usted posee la información o alguna fuente, le agradeceré compartirla para incluir los datos en este repositorio!
 
 Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos y organismos regionales (SEREMI o intendencias), por lo que pueden discrepar del total general regional entregado por MinSal. Esto puede ser por tener un corte horario distinto o por existir casos que en el día de reporte se encuentran en investigación de comuna de origen que son omitidos.
 
@@ -39,11 +39,11 @@ Si alguna comuna no está es porque no ha reportado casos a la fecha de actualiz
 *Los números de la región de Valparaíso pueden ser no muy confiables, pues el Seremi ha reportado solo los casos nuevos y no los acumulados día a día, por lo que pueden haber discrepancias al totalizar la cuenta respecto de otras fuentes.
 
 ## Datos MinSal Informe Epidemiológico
-En el archivo `covid19_comunas.csv` encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020.
+En el archivo `covid19_comunas.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv)) encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020.
 
 # Base de datos nivel regional MinSal.
 La base de datos original de este repositorio, actualizada hasta el 29-03-2020 ha sido movida a la carpeta `old` y no seguira su mantención. Esto pues, su contenido ya no tenía sentido.
-La base nueva, archivo con el mismo nombre `covid19_chile.csv`, en la misma ubicación tiene ahora una nueva estructura:
+La base nueva, archivo con el mismo nombre `covid19_chile.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv)), en la misma ubicación tiene ahora una nueva estructura:
 * `Fecha`
 * `Region`
 * `Nuevo Confirmado`
