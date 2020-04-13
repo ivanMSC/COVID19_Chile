@@ -62,6 +62,9 @@ Al parecer nos han escuchado. [El Ministerio de Ciencia tiene un repo](https://g
 En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica ~~ya que nuestros gobiernos son en su grueso ineptos y tenemos que hacer todo nosotros mismos~~. 
 Yo estoy a cargo de la data de Chile y del [panel](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB) que muestra la evolución de cada país por estado/provincia/región/departamento. Se necesitan manos, y estamos recibiendo gente con ganas de buscar la información.
 
+# Carpeta Utils
+En esta carpeta encontrará tablas relacionadas a países, regiones de Chile y Comunas de Chile. Además de un mapa TopoJSON de Chile subdividido en Comunas, ideal para la creación de dashboards. Cada polígono del mapa tiene un ID que es igual al CUT de la Comuna.
+
 # Conectarse
 Para descargar o conectarse a la base de datos directamente, usar la dirección pública https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv
 https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv
