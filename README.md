@@ -8,6 +8,7 @@ Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
 - [Base de datos nivel regional MinSal.](#base-de-datos-nivel-regional-minsal)
 - [Ministerio de Ciencia](#ministerio-de-ciencia)
 - [Base de datos del COVID-19 en toda Latinoamérica](#base-de-datos-del-covid-19-en-toda-latinoamérica)
+- [Carpeta Utils y Mapa de Chile](carpeta-utils-y-mapa-de-chile)
 - [Conectarse](#conectarse)
 
 # Base de datos nivel Comunal
@@ -62,7 +63,7 @@ Al parecer nos han escuchado. [El Ministerio de Ciencia tiene un repo](https://g
 En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica ~~ya que nuestros gobiernos son en su grueso ineptos y tenemos que hacer todo nosotros mismos~~. 
 Yo estoy a cargo de la data de Chile y del [panel](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB) que muestra la evolución de cada país por estado/provincia/región/departamento. Se necesitan manos, y estamos recibiendo gente con ganas de buscar la información.
 
-# Carpeta Utils
+# Carpeta Utils y Mapa de Chile
 En esta carpeta encontrará tablas relacionadas a países, regiones de Chile y Comunas de Chile. Además de un mapa TopoJSON de Chile subdividido en Comunas, ideal para la creación de dashboards. Cada polígono del mapa tiene un ID que es igual al CUT de la Comuna.
 
 # Conectarse
