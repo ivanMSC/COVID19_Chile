@@ -8,7 +8,7 @@ Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
 - [Base de datos nivel regional MinSal.](#base-de-datos-nivel-regional-minsal)
 - [Ministerio de Ciencia](#ministerio-de-ciencia)
 - [Base de datos del COVID-19 en toda Latinoamérica](#base-de-datos-del-covid-19-en-toda-latinoamérica)
-- [Carpeta Utils y Mapa de Chile](carpeta-utils-y-mapa-de-chile)
+- [Carpeta Utils y Mapa de Chile](#carpeta-utils-y-mapa-de-chile)
 - [Conectarse](#conectarse)
 
 # Base de datos nivel Comunal
