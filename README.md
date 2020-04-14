@@ -39,7 +39,7 @@ Si alguna comuna no está es porque no ha reportado casos a la fecha de actualiz
 *Los números de la región de Valparaíso pueden ser no muy confiables, pues el Seremi ha reportado solo los casos nuevos y no los acumulados día a día, por lo que pueden haber discrepancias al totalizar la cuenta respecto de otras fuentes.
 
 ## Datos MinSal Informe Epidemiológico
-En el archivo `covid19_comunas.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv)) encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020.
+En el archivo `covid19_comunas_informeEpidemiologico.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas_informeEpidemiologico.csv)) encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020.
 
 # Base de datos nivel regional MinSal.
 La base de datos original de este repositorio, actualizada hasta el 29-03-2020 ha sido movida a la carpeta `old` y no seguira su mantención. Esto pues, su contenido ya no tenía sentido.
@@ -68,5 +68,5 @@ En esta carpeta encontrará tablas relacionadas a países, regiones de Chile y C
 
 # Conectarse
 Para descargar o conectarse a la base de datos directamente, usar la dirección pública https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_chile.csv
-https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas.csv
+https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas_informeEpidemiologico.csv
 https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/historial_comunas.csv
