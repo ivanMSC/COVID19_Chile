@@ -57,7 +57,7 @@ Los nombres de los campos no necesitan explicación. El campo `Region` puede tom
 
 # Ministerio de Ciencia
 
-Al parecer nos han escuchado. [El Ministerio de Ciencia tiene un repo](https://github.com/MinCiencia/Datos-COVID19). Ahí suben unos CSV con casos por region y comuna. Lamentablemente, la información no es más de la que ya tenemos. Aunque preferiría pensar que es porque están recién comenzando. Tiene algunos problemas, por ejemplo, no reportan el número de casos por cumuna si el número de casos es menor a 4 (lo que hago yo para rellenar la información es multiplicar la tasa por la población y redondear); no entregan el número de recuperados y muertos por comuna, etc. Mientras no se solucionen esos problemas, seguiré manteniendo el archivo en la medida que se publique más información.
+Para información y data oficial visite el repositorios del [Ministerio de Ciencia](https://github.com/MinCiencia/Datos-COVID19). Ahí colaboramos entre todos.
 
 # Base de datos del COVID-19 en toda Latinoamérica
 En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica ~~ya que nuestros gobiernos son en su grueso ineptos y tenemos que hacer todo nosotros mismos~~. 
