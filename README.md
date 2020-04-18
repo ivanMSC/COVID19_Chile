@@ -57,7 +57,7 @@ Los nombres de los campos no necesitan explicación. El campo `Region` puede tom
 
 # Ministerio de Ciencia
 
-Para información y data oficial visite el repositorios del [Ministerio de Ciencia](https://github.com/MinCiencia/Datos-COVID19). Ahí colaboramos entre todos.
+Para información y data oficial visite el repositorio del [Ministerio de Ciencia](https://github.com/MinCiencia/Datos-COVID19). Ahí colaboramos entre todos.
 
 # Base de datos del COVID-19 en toda Latinoamérica
 En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica ~~ya que nuestros gobiernos son en su grueso ineptos y tenemos que hacer todo nosotros mismos~~. 
