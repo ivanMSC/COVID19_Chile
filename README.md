@@ -1,3 +1,7 @@
+## Actualización instantánea
+Las actualizaciones de los datos regionales son instantáneas y autónomas. Hice un robot que está funcionando en un servidor de Google que mira la pagína del gobierno todos los días a partir de las 9 am, cada 1 minuto y verifica si hay datos nuevos. Si los encuentra, los sube a GitHub. El bot va a seguir corriendo incluso si me muero. Si hay un error en la data, contácteme.
+
+
 ## Panel Interactivo
 Para ver el Panel Interactivo visite https://tiny.cc/covid19chile
 
