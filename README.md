@@ -25,7 +25,7 @@ Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos
 ### Regiones por completar 
 | Región | Datos desde |
 | ------------- | ------------- |
-| Metropolitana  | 30-mar-2020 y solo lun-mie-vie  |
+| Metropolitana  | 30-mar-2020 y solo algunos dias  |
 | Maule  | 29-mar-2020  |
 | Araucanía  | 23-mar-2020  |
 
@@ -37,10 +37,11 @@ Las demás regiones están completas.
 * `Region` Código ISO 3166-2.
 * `Comuna`
 * `Confirmados Acumulados`
+* `Nuevos Confirmados`
 
-Si alguna comuna no está es porque no ha reportado casos a la fecha de actualización. En la RM, se reportan los datos solo para los días lunes, miércoles y viernes desde el 30-mar-2020; y en los demás días no existe data.
+Si alguna comuna no está es porque no ha reportado casos a la fecha de actualización. En la RM, se reportan los datos solo los días del informe epidemiológico; y en los demás días no existe data.
 
-*Los números de la región de Valparaíso pueden ser no muy confiables, pues el Seremi ha reportado solo los casos nuevos y no los acumulados día a día, por lo que pueden haber discrepancias al totalizar la cuenta respecto de otras fuentes.
+*Los números de la región de Valparaíso pueden ser no muy confiables, pues el Seremi había estado reportado solo los casos nuevos y no los acumulados día a día, por lo que pueden haber discrepancias al totalizar la cuenta respecto de otras fuentes.
 
 ## Datos MinSal Informe Epidemiológico
 En el archivo `covid19_comunas_informeEpidemiologico.csv` ([link directo](https://raw.githubusercontent.com/ivanMSC/COVID19_Chile/master/covid19_comunas_informeEpidemiologico.csv)) encontrará la serie de tiempo de los casos confirmados por comuna, obtenida del informe epidemiológico que sube el ministerio de salud a contar del 31-mar-2020.
@@ -56,15 +57,16 @@ La base nueva, archivo con el mismo nombre `covid19_chile.csv` ([link directo](h
 * `Acum Confirmado`
 * `Acum Muerte`
 * `Acum Recuperado`
+* `Casos UCI`
 
 Los nombres de los campos no necesitan explicación. El campo `Region` puede tomar el valor `No informado` para incluir los casos recuperados que el gobierno se niega a entregar desglosados.
 
 # Ministerio de Ciencia
 
-Para información y data oficial visite el repositorio del [Ministerio de Ciencia](https://github.com/MinCiencia/Datos-COVID19). Ahí colaboramos entre todos.
+Para información y data oficial visite el repositorio del [Ministerio de Ciencia](https://github.com/MinCiencia/Datos-COVID19).
 
 # Base de datos del COVID-19 en toda Latinoamérica
-En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica ~~ya que nuestros gobiernos son en su grueso ineptos y tenemos que hacer todo nosotros mismos~~. 
+En este [repo](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica) estamos trabajando para la recopilación de la información de toda latinoamérica. 
 Yo estoy a cargo de la data de Chile y del [panel](https://datastudio.google.com/u/2/reporting/9b824956-4055-46da-8c40-0d46ded5ffba/page/QkcKB) que muestra la evolución de cada país por estado/provincia/región/departamento. Se necesitan manos, y estamos recibiendo gente con ganas de buscar la información.
 
 # Carpeta Utils y Mapa de Chile
