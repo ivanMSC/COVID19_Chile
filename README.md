@@ -31,6 +31,25 @@ Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos
 
 Las demás regiones están completas.
 
+### Fuentes
+|Región|Fuentes|
+|-------|-------|
+|Arica y Parinacota|[Gore](https://twitter.com/goredearica)|
+|Tarapacá|[Seremi](https://twitter.com/SeremiSalud_I), [Gore](https://twitter.com/Gore_Tarapaca)|
+|Antofagasta|[Gore](https://twitter.com/GOREAntofagasta)
+|Atacama|[Seremi](https://twitter.com/SeremiSalud3)|
+|Coquimbo|[Gore](https://twitter.com/gorecoquimbo), [Seremi](https://twitter.com/SeremiSalud_Coq)|
+|Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/21670-2/), [Intendencia](https://www.facebook.com/intendenciavalparaiso/)|
+|O'Higgins|[Gore](https://dellibertador.cl/d3/noticias/noticias-gore/108-covid-19-informe-diario)|
+|Maule|[Seremi](https://twitter.com/SeremiSaludM), [SSMaule](https://twitter.com/SSMaule)|
+|Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
+|Biobío|[Seremi](https://www.facebook.com/seremisalud.biobio/)|
+|Araucanía|[Seremi](https://seremi9.redsalud.gob.cl/actualizacion-de-casos-covid-19-en-la-araucania/)|
+|Los Ríos|[Seremi](https://seremi14.redsalud.gob.cl/), [Dashboard Oficial](https://www.canva.com/design/DAD6TwPrraQ/0w6qmDIE9COQP9cUOSek6w/view?utm_content=DAD6TwPrraQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)|
+|Los Lagos|[Seremi](https://seremi10.redsalud.gob.cl/17466-2/)|
+|Aysén|[Intendencia](https://www.facebook.com/Intendencia-Regional-de-Ays%C3%A9n-1827793797444744/), [Canal Sur Patagonia](https://www.youtube.com/channel/UCjOnLoWORUVm2L8ltJNVqag/videos)|
+|Magallanes|[SSMagallanes](https://twitter.com/SaludMagallanes), [Intendencia](https://twitter.com/IntendenciaM)|
+
 ### Campos del archivo
 * `Fecha` en formato `dd-mm-yyyy`
 * `CUT` Código único territorial. Códigos especiales: `5999` = `Barco Isabela Island` en Valparaíso y `10999` = `Barco Silver Explorer` en Los Lagos. 
