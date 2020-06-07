@@ -42,7 +42,7 @@ Las demás regiones están completas.
 |Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/21670-2/), [Seremi Twitter](https://twitter.com/SaludSsrv)|
 |O'Higgins|[Gore](http://www.goreohiggins.cl/noticias/noticias-gore/108-covid-19-informe-diario)|
 |Maule|[Seremi](https://twitter.com/SeremiSaludM), [SSMaule](https://twitter.com/SSMaule)|
-|Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
+|Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Seremi Facebook](https://www.facebook.com/SeremiSalud16/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
 |Biobío|[Seremi](https://www.facebook.com/seremisalud.biobio/)|
 |Araucanía|[Seremi](https://seremi9.redsalud.gob.cl/actualizacion-de-casos-covid-19-en-la-araucania/)|
 |Los Ríos|[Seremi](https://seremi14.redsalud.gob.cl/), [Dashboard Oficial](https://www.canva.com/design/DAD6TwPrraQ/0w6qmDIE9COQP9cUOSek6w/view?utm_content=DAD6TwPrraQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)|
