@@ -523,6 +523,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2101,AN,Antofagasta,1770,42
 08-06-2020,2101,AN,Antofagasta,1800,30
 09-06-2020,2101,AN,Antofagasta,1854,54
+10-06-2020,2101,AN,Antofagasta,1904,50
 06-04-2020,2102,AN,Mejillones,1,1
 07-04-2020,2102,AN,Mejillones,1,0
 08-04-2020,2102,AN,Mejillones,2,1
@@ -588,6 +589,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2102,AN,Mejillones,281,0
 08-06-2020,2102,AN,Mejillones,287,6
 09-06-2020,2102,AN,Mejillones,297,10
+10-06-2020,2102,AN,Mejillones,297,0
 07-05-2020,2103,AN,Sierra Gorda,2,2
 08-05-2020,2103,AN,Sierra Gorda,2,0
 09-05-2020,2103,AN,Sierra Gorda,2,0
@@ -622,6 +624,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2103,AN,Sierra Gorda,16,0
 08-06-2020,2103,AN,Sierra Gorda,21,5
 09-06-2020,2103,AN,Sierra Gorda,21,0
+10-06-2020,2103,AN,Sierra Gorda,21,0
 08-04-2020,2104,AN,Taltal,1,1
 09-04-2020,2104,AN,Taltal,1,0
 10-04-2020,2104,AN,Taltal,3,2
@@ -685,6 +688,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2104,AN,Taltal,37,0
 08-06-2020,2104,AN,Taltal,37,0
 09-06-2020,2104,AN,Taltal,37,0
+10-06-2020,2104,AN,Taltal,37,0
 14-03-2020,2201,AN,Calama,2,2
 15-03-2020,2201,AN,Calama,2,0
 16-03-2020,2201,AN,Calama,2,0
@@ -773,8 +777,10 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2201,AN,Calama,757,71
 08-06-2020,2201,AN,Calama,791,34
 09-06-2020,2201,AN,Calama,881,90
+10-06-2020,2201,AN,Calama,981,100
 08-06-2020,2202,AN,Ollagüe,2,2
 09-06-2020,2202,AN,Ollagüe,2,0
+10-06-2020,2202,AN,Ollagüe,2,0
 30-03-2020,2203,AN,San Pedro de Atacama,1,1
 31-03-2020,2203,AN,San Pedro de Atacama,1,0
 01-04-2020,2203,AN,San Pedro de Atacama,2,1
@@ -847,6 +853,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2203,AN,San Pedro de Atacama,14,0
 08-06-2020,2203,AN,San Pedro de Atacama,18,4
 09-06-2020,2203,AN,San Pedro de Atacama,18,0
+10-06-2020,2203,AN,San Pedro de Atacama,18,0
 19-03-2020,2301,AN,Tocopilla,2,2
 20-03-2020,2301,AN,Tocopilla,2,0
 21-03-2020,2301,AN,Tocopilla,2,0
@@ -930,6 +937,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2301,AN,Tocopilla,38,2
 08-06-2020,2301,AN,Tocopilla,45,7
 09-06-2020,2301,AN,Tocopilla,47,2
+10-06-2020,2301,AN,Tocopilla,51,4
 13-04-2020,2302,AN,María Elena,1,1
 14-04-2020,2302,AN,María Elena,1,0
 15-04-2020,2302,AN,María Elena,2,1
@@ -988,6 +996,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,2302,AN,María Elena,167,3
 08-06-2020,2302,AN,María Elena,168,1
 09-06-2020,2302,AN,María Elena,168,0
+10-06-2020,2302,AN,María Elena,168,0
 22-05-2020,3201,AT,Chañaral,1,1
 23-05-2020,3201,AT,Chañaral,1,0
 24-05-2020,3201,AT,Chañaral,1,0
@@ -17492,6 +17501,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,11101,AI,Coyhaique,9,1
 08-06-2020,11101,AI,Coyhaique,10,1
 09-06-2020,11101,AI,Coyhaique,10,0
+10-06-2020,11101,AI,Coyhaique,10,0
 05-04-2020,11401,AI,Chile Chico,1,1
 06-04-2020,11401,AI,Chile Chico,1,0
 07-04-2020,11401,AI,Chile Chico,1,0
@@ -17558,6 +17568,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,11401,AI,Chile Chico,1,0
 08-06-2020,11401,AI,Chile Chico,1,0
 09-06-2020,11401,AI,Chile Chico,1,0
+10-06-2020,11401,AI,Chile Chico,1,0
 14-03-2020,11303,AI,Tortel,1,1
 15-03-2020,11303,AI,Tortel,1,0
 16-03-2020,11303,AI,Tortel,1,0
@@ -17646,6 +17657,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,11303,AI,Tortel,1,0
 08-06-2020,11303,AI,Tortel,1,0
 09-06-2020,11303,AI,Tortel,1,0
+10-06-2020,11303,AI,Tortel,1,0
 30-03-2020,11201,AI,Aysén,1,1
 31-03-2020,11201,AI,Aysén,1,0
 01-04-2020,11201,AI,Aysén,1,0
@@ -17718,6 +17730,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 07-06-2020,11201,AI,Aysén,8,0
 08-06-2020,11201,AI,Aysén,8,0
 09-06-2020,11201,AI,Aysén,8,0
+10-06-2020,11201,AI,Aysén,8,0
 17-03-2020,12101,MA,Punta Arenas,2,2
 18-03-2020,12101,MA,Punta Arenas,2,0
 19-03-2020,12101,MA,Punta Arenas,2,0
