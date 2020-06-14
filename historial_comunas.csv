@@ -10083,6 +10083,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16101,NB,Chillán,720,15
 12-06-2020,16101,NB,Chillán,737,17
 13-06-2020,16101,NB,Chillán,742,5
+14-06-2020,16101,NB,Chillán,752,10
 17-03-2020,16102,NB,Bulnes,1,1
 18-03-2020,16102,NB,Bulnes,1,0
 19-03-2020,16102,NB,Bulnes,1,0
@@ -10171,6 +10172,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16102,NB,Bulnes,199,2
 12-06-2020,16102,NB,Bulnes,200,1
 13-06-2020,16102,NB,Bulnes,203,3
+14-06-2020,16102,NB,Bulnes,204,1
 21-03-2020,16103,NB,Chillán Viejo,3,3
 22-03-2020,16103,NB,Chillán Viejo,5,2
 23-03-2020,16103,NB,Chillán Viejo,5,0
@@ -10255,6 +10257,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16103,NB,Chillán Viejo,139,5
 12-06-2020,16103,NB,Chillán Viejo,142,3
 13-06-2020,16103,NB,Chillán Viejo,143,1
+14-06-2020,16103,NB,Chillán Viejo,145,2
 20-03-2020,16301,NB,San Carlos,2,2
 21-03-2020,16301,NB,San Carlos,3,1
 22-03-2020,16301,NB,San Carlos,3,0
@@ -10340,6 +10343,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16301,NB,San Carlos,123,7
 12-06-2020,16301,NB,San Carlos,136,13
 13-06-2020,16301,NB,San Carlos,142,6
+14-06-2020,16301,NB,San Carlos,145,3
 24-03-2020,16107,NB,Quillón,2,2
 25-03-2020,16107,NB,Quillón,2,0
 26-03-2020,16107,NB,Quillón,3,1
@@ -10421,6 +10425,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16107,NB,Quillón,86,8
 12-06-2020,16107,NB,Quillón,88,2
 13-06-2020,16107,NB,Quillón,88,0
+14-06-2020,16107,NB,Quillón,93,5
 22-03-2020,16302,NB,Coihueco,1,1
 24-03-2020,16302,NB,Coihueco,1,0
 25-03-2020,16302,NB,Coihueco,1,0
@@ -10503,6 +10508,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16302,NB,Coihueco,58,2
 12-06-2020,16302,NB,Coihueco,60,2
 13-06-2020,16302,NB,Coihueco,61,1
+14-06-2020,16302,NB,Coihueco,62,1
 28-03-2020,16109,NB,Yungay,1,1
 29-03-2020,16109,NB,Yungay,1,0
 30-03-2020,16109,NB,Yungay,1,0
@@ -10580,6 +10586,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16109,NB,Yungay,67,1
 12-06-2020,16109,NB,Yungay,68,1
 13-06-2020,16109,NB,Yungay,68,0
+14-06-2020,16109,NB,Yungay,70,2
 28-03-2020,16305,NB,San Nicolás,1,1
 29-03-2020,16305,NB,San Nicolás,1,0
 30-03-2020,16305,NB,San Nicolás,2,1
@@ -10657,6 +10664,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16305,NB,San Nicolás,48,4
 12-06-2020,16305,NB,San Nicolás,48,0
 13-06-2020,16305,NB,San Nicolás,48,0
+14-06-2020,16305,NB,San Nicolás,49,1
 24-03-2020,16108,NB,San Ignacio,2,2
 25-03-2020,16108,NB,San Ignacio,2,0
 26-03-2020,16108,NB,San Ignacio,2,0
@@ -10738,6 +10746,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16108,NB,San Ignacio,44,9
 12-06-2020,16108,NB,San Ignacio,46,2
 13-06-2020,16108,NB,San Ignacio,46,0
+14-06-2020,16108,NB,San Ignacio,58,12
 07-04-2020,16303,NB,Ñiquén,1,1
 08-04-2020,16303,NB,Ñiquén,2,1
 09-04-2020,16303,NB,Ñiquén,2,0
@@ -10805,6 +10814,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16303,NB,Ñiquén,34,0
 12-06-2020,16303,NB,Ñiquén,35,1
 13-06-2020,16303,NB,Ñiquén,37,2
+14-06-2020,16303,NB,Ñiquén,38,1
 29-03-2020,16203,NB,Coelemu,1,1
 30-03-2020,16203,NB,Coelemu,1,0
 31-03-2020,16203,NB,Coelemu,1,0
@@ -10881,6 +10891,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16203,NB,Coelemu,32,2
 12-06-2020,16203,NB,Coelemu,34,2
 13-06-2020,16203,NB,Coelemu,34,0
+14-06-2020,16203,NB,Coelemu,34,0
 28-03-2020,16104,NB,El Carmen,1,1
 29-03-2020,16104,NB,El Carmen,1,0
 30-03-2020,16104,NB,El Carmen,1,0
@@ -10958,6 +10969,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16104,NB,El Carmen,30,0
 12-06-2020,16104,NB,El Carmen,30,0
 13-06-2020,16104,NB,El Carmen,31,1
+14-06-2020,16104,NB,El Carmen,33,2
 06-04-2020,16201,NB,Quirihue,1,1
 07-04-2020,16201,NB,Quirihue,3,2
 08-04-2020,16201,NB,Quirihue,3,0
@@ -11026,6 +11038,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16201,NB,Quirihue,23,0
 12-06-2020,16201,NB,Quirihue,23,0
 13-06-2020,16201,NB,Quirihue,23,0
+14-06-2020,16201,NB,Quirihue,23,0
 06-04-2020,16105,NB,Pemuco,2,2
 07-04-2020,16105,NB,Pemuco,3,1
 08-04-2020,16105,NB,Pemuco,3,0
@@ -11094,6 +11107,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16105,NB,Pemuco,22,1
 12-06-2020,16105,NB,Pemuco,22,0
 13-06-2020,16105,NB,Pemuco,22,0
+14-06-2020,16105,NB,Pemuco,23,1
 27-03-2020,16106,NB,Pinto,1,1
 28-03-2020,16106,NB,Pinto,1,0
 29-03-2020,16106,NB,Pinto,1,0
@@ -11172,6 +11186,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16106,NB,Pinto,17,0
 12-06-2020,16106,NB,Pinto,17,0
 13-06-2020,16106,NB,Pinto,17,0
+14-06-2020,16106,NB,Pinto,17,0
 07-04-2020,16204,NB,Ninhue,1,1
 08-04-2020,16204,NB,Ninhue,2,1
 09-04-2020,16204,NB,Ninhue,2,0
@@ -11239,6 +11254,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16204,NB,Ninhue,11,0
 12-06-2020,16204,NB,Ninhue,12,1
 13-06-2020,16204,NB,Ninhue,12,0
+14-06-2020,16204,NB,Ninhue,12,0
 26-03-2020,16206,NB,Ránquil,1,1
 27-03-2020,16206,NB,Ránquil,1,0
 28-03-2020,16206,NB,Ránquil,1,0
@@ -11318,6 +11334,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16206,NB,Ránquil,11,0
 12-06-2020,16206,NB,Ránquil,11,0
 13-06-2020,16206,NB,Ránquil,11,0
+14-06-2020,16206,NB,Ránquil,11,0
 20-03-2020,16304,NB,San Fabián,1,1
 21-03-2020,16304,NB,San Fabián,1,0
 22-03-2020,16304,NB,San Fabián,1,0
@@ -11403,6 +11420,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16304,NB,San Fabián,9,0
 12-06-2020,16304,NB,San Fabián,9,0
 13-06-2020,16304,NB,San Fabián,9,0
+14-06-2020,16304,NB,San Fabián,9,0
 14-05-2020,16205,NB,Portezuelo,1,1
 15-05-2020,16205,NB,Portezuelo,2,1
 16-05-2020,16205,NB,Portezuelo,2,0
@@ -11433,6 +11451,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16205,NB,Portezuelo,7,0
 12-06-2020,16205,NB,Portezuelo,7,0
 13-06-2020,16205,NB,Portezuelo,7,0
+14-06-2020,16205,NB,Portezuelo,7,0
 27-05-2020,16207,NB,Treguaco,1,1
 28-05-2020,16207,NB,Treguaco,1,0
 29-05-2020,16207,NB,Treguaco,1,0
@@ -11451,6 +11470,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 11-06-2020,16207,NB,Treguaco,2,0
 12-06-2020,16207,NB,Treguaco,3,1
 13-06-2020,16207,NB,Treguaco,3,0
+14-06-2020,16207,NB,Treguaco,3,0
 16-03-2020,8101,BI,Concepción,1,1
 17-03-2020,8101,BI,Concepción,1,0
 18-03-2020,8101,BI,Concepción,1,0
