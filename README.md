@@ -44,7 +44,7 @@ Las demás regiones están completas.
 |Maule|[Seremi](https://twitter.com/SeremiSaludM), [SSMaule](https://twitter.com/SSMaule)|
 |Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Seremi Facebook](https://www.facebook.com/SeremiSalud16/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
 |Biobío|[Seremi](https://www.facebook.com/seremisalud.biobio/)|
-|Araucanía|[Seremi](https://seremi9.redsalud.gob.cl/actualizacion-de-casos-covid-19-en-la-araucania/)|
+|Araucanía|[Seremi](https://seremi9.redsalud.gob.cl/9370-2/)|
 |Los Ríos|[Seremi](https://seremi14.redsalud.gob.cl/), [Dashboard Oficial](https://www.canva.com/design/DAD6TwPrraQ/0w6qmDIE9COQP9cUOSek6w/view?utm_content=DAD6TwPrraQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)|
 |Los Lagos|[Seremi](https://seremi10.redsalud.gob.cl/17466-2/)|
 |Aysén|[Intendencia](https://www.facebook.com/Intendencia-Regional-de-Ays%C3%A9n-1827793797444744/), [Seremi](https://seremi11.redsalud.gob.cl/la-seremi-de-salud-informa-a-sus-usuarios-as/)|
