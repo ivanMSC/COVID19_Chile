@@ -39,7 +39,7 @@ Las demás regiones están completas.
 |Antofagasta|[Gore](https://twitter.com/GOREAntofagasta)
 |Atacama|[Seremi](https://twitter.com/SeremiSalud3)|
 |Coquimbo|[Gore](https://twitter.com/gorecoquimbo), [Seremi](https://twitter.com/SeremiSalud_Coq), [ULS](https://bigdatauls.userena.cl/salud/covid-19/region-coquimbo/)|
-|Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/21670-2/), [Seremi Twitter](https://twitter.com/SaludSsrv)|
+|Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/reporte-regional), [Seremi Twitter](https://twitter.com/SaludSsrv)|
 |O'Higgins|[Gore](http://www.goreohiggins.cl/noticias/noticias-gore/108-covid-19-informe-diario)|
 |Maule|[Seremi](https://twitter.com/SeremiSaludM), [SSMaule](https://twitter.com/SSMaule)|
 |Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Seremi Facebook](https://www.facebook.com/SeremiSalud16/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
