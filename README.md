@@ -36,7 +36,7 @@ Las demás regiones están completas.
 |-------|-------|
 |Arica y Parinacota|[Gore](https://twitter.com/goredearica)|
 |Tarapacá|[Seremi](https://twitter.com/SeremiSalud_I), [Gore](https://twitter.com/Gore_Tarapaca)|
-|Antofagasta|[Gore](https://twitter.com/GOREAntofagasta)
+|Antofagasta|[Gore](https://twitter.com/GOREAntofagasta), [Dashboard oficial](https://experience.arcgis.com/experience/13813048c0d54a61bc53d536225d5e28/)
 |Atacama|[Seremi](https://twitter.com/SeremiSalud3)|
 |Coquimbo|[Gore](https://twitter.com/gorecoquimbo), [Seremi](https://twitter.com/SeremiSalud_Coq), [ULS](https://bigdatauls.userena.cl/salud/covid-19/region-coquimbo/)|
 |Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/reporte-regional), [Seremi Twitter](https://twitter.com/SaludSsrv)|
