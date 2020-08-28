@@ -1402,6 +1402,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2101,AN,Antofagasta,8602,41
 26-08-2020,2101,AN,Antofagasta,8660,58
 27-08-2020,2101,AN,Antofagasta,8732,72
+28-08-2020,2101,AN,Antofagasta,8771,39
 06-04-2020,2102,AN,Mejillones,1,1
 07-04-2020,2102,AN,Mejillones,1,0
 08-04-2020,2102,AN,Mejillones,2,1
@@ -1546,6 +1547,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2102,AN,Mejillones,604,0
 26-08-2020,2102,AN,Mejillones,605,1
 27-08-2020,2102,AN,Mejillones,607,2
+28-08-2020,2102,AN,Mejillones,611,4
 07-05-2020,2103,AN,Sierra Gorda,2,2
 08-05-2020,2103,AN,Sierra Gorda,2,0
 09-05-2020,2103,AN,Sierra Gorda,2,0
@@ -1659,6 +1661,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2103,AN,Sierra Gorda,128,1
 26-08-2020,2103,AN,Sierra Gorda,130,2
 27-08-2020,2103,AN,Sierra Gorda,130,0
+28-08-2020,2103,AN,Sierra Gorda,130,0
 08-04-2020,2104,AN,Taltal,1,1
 09-04-2020,2104,AN,Taltal,1,0
 10-04-2020,2104,AN,Taltal,3,2
@@ -1801,6 +1804,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2104,AN,Taltal,153,1
 26-08-2020,2104,AN,Taltal,153,0
 27-08-2020,2104,AN,Taltal,154,1
+28-08-2020,2104,AN,Taltal,154,0
 14-03-2020,2201,AN,Calama,2,2
 15-03-2020,2201,AN,Calama,2,0
 16-03-2020,2201,AN,Calama,2,0
@@ -1968,6 +1972,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2201,AN,Calama,6806,10
 26-08-2020,2201,AN,Calama,6824,18
 27-08-2020,2201,AN,Calama,6839,15
+28-08-2020,2201,AN,Calama,6882,43
 08-06-2020,2202,AN,Ollagüe,2,2
 09-06-2020,2202,AN,Ollagüe,2,0
 10-06-2020,2202,AN,Ollagüe,2,0
@@ -2049,6 +2054,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2202,AN,Ollagüe,26,0
 26-08-2020,2202,AN,Ollagüe,26,0
 27-08-2020,2202,AN,Ollagüe,26,0
+28-08-2020,2202,AN,Ollagüe,26,0
 30-03-2020,2203,AN,San Pedro de Atacama,1,1
 31-03-2020,2203,AN,San Pedro de Atacama,1,0
 01-04-2020,2203,AN,San Pedro de Atacama,2,1
@@ -2200,6 +2206,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2203,AN,San Pedro de Atacama,336,0
 26-08-2020,2203,AN,San Pedro de Atacama,336,0
 27-08-2020,2203,AN,San Pedro de Atacama,341,5
+28-08-2020,2203,AN,San Pedro de Atacama,341,0
 19-03-2020,2301,AN,Tocopilla,2,2
 20-03-2020,2301,AN,Tocopilla,2,0
 21-03-2020,2301,AN,Tocopilla,2,0
@@ -2362,6 +2369,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2301,AN,Tocopilla,307,3
 26-08-2020,2301,AN,Tocopilla,308,1
 27-08-2020,2301,AN,Tocopilla,311,3
+28-08-2020,2301,AN,Tocopilla,315,4
 13-04-2020,2302,AN,María Elena,1,1
 14-04-2020,2302,AN,María Elena,1,0
 15-04-2020,2302,AN,María Elena,2,1
@@ -2499,6 +2507,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,2302,AN,María Elena,332,0
 26-08-2020,2302,AN,María Elena,332,0
 27-08-2020,2302,AN,María Elena,332,0
+28-08-2020,2302,AN,María Elena,332,0
 22-05-2020,3201,AT,Chañaral,1,1
 23-05-2020,3201,AT,Chañaral,1,0
 24-05-2020,3201,AT,Chañaral,1,0
@@ -40428,6 +40437,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12101,MA,Punta Arenas,2871,98
 26-08-2020,12101,MA,Punta Arenas,2932,61
 27-08-2020,12101,MA,Punta Arenas,3073,141
+28-08-2020,12101,MA,Punta Arenas,3127,54
 28-03-2020,12401,MA,Natales,1,1
 29-03-2020,12401,MA,Natales,1,0
 30-03-2020,12401,MA,Natales,3,2
@@ -40579,6 +40589,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12401,MA,Natales,55,1
 26-08-2020,12401,MA,Natales,55,0
 27-08-2020,12401,MA,Natales,56,1
+28-08-2020,12401,MA,Natales,58,2
 25-03-2020,12201,MA,Cabo de Hornos,2,2
 26-03-2020,12201,MA,Cabo de Hornos,2,0
 27-03-2020,12201,MA,Cabo de Hornos,2,0
@@ -40733,6 +40744,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12201,MA,Cabo de Hornos,23,0
 26-08-2020,12201,MA,Cabo de Hornos,23,0
 27-08-2020,12201,MA,Cabo de Hornos,24,1
+28-08-2020,12201,MA,Cabo de Hornos,24,0
 16-04-2020,12302,MA,Primavera,1,1
 17-04-2020,12302,MA,Primavera,1,0
 18-04-2020,12302,MA,Primavera,1,0
@@ -40865,6 +40877,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12302,MA,Primavera,4,0
 26-08-2020,12302,MA,Primavera,4,0
 27-08-2020,12302,MA,Primavera,4,0
+28-08-2020,12302,MA,Primavera,4,0
 06-08-2020,12303,MA,Timaukel,2,2
 07-08-2020,12303,MA,Timaukel,2,0
 08-08-2020,12303,MA,Timaukel,2,0
@@ -40887,6 +40900,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12303,MA,Timaukel,2,0
 26-08-2020,12303,MA,Timaukel,2,0
 27-08-2020,12303,MA,Timaukel,2,0
+28-08-2020,12303,MA,Timaukel,2,0
 05-05-2020,12104,MA,San Gregorio,1,1
 06-05-2020,12104,MA,San Gregorio,1,0
 07-05-2020,12104,MA,San Gregorio,1,0
@@ -41000,6 +41014,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12104,MA,San Gregorio,2,0
 26-08-2020,12104,MA,San Gregorio,2,0
 27-08-2020,12104,MA,San Gregorio,2,0
+28-08-2020,12104,MA,San Gregorio,2,0
 31-03-2020,12301,MA,Porvenir,1,1
 01-04-2020,12301,MA,Porvenir,2,1
 02-04-2020,12301,MA,Porvenir,3,1
@@ -41148,3 +41163,4 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 25-08-2020,12301,MA,Porvenir,48,0
 26-08-2020,12301,MA,Porvenir,48,0
 27-08-2020,12301,MA,Porvenir,52,4
+28-08-2020,12301,MA,Porvenir,54,2
