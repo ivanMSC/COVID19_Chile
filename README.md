@@ -32,15 +32,26 @@ Los datos son obtenidos día a día desde comunicados oficiales de los gobiernos
 Las demás regiones están completas.
 
 ### Fuentes
+El proceso de extracción de datos está automatizado, mientras que la verificación es semi manual. 
+Para cada región, se verficia  las fuentes que se listan a continuación, diariamente y se obtienen los datos del total acumulado. 
+Para ello se recurre a, por ejemplo, un API de OCR provisto por Google Drive, scraping de dashboards implementado en Google Apps Script, etc.
+
+Para scrapear Twitter, no tengo un key del API, pero lo bypasseo usando https://nitter.net/ (dios lo guarde y lo proteja)
+
+Todo esto está alojado en un proyecto de Google Apps Script y funciona en servidores de Google, siendo los resultados centralizados en un Google Sheets (no regrets).
+Absolutamente gratis.
+
+Todas las fuentes son publicas y pueden ser visitadas a continuación:
+
 |Región|Fuentes|
 |-------|-------|
-|Arica y Parinacota|[Gore](https://twitter.com/goredearica)|
+|Arica y Parinacota|[Gore](https://twitter.com/goredearica), Reportes Minsal|
 |Tarapacá|[Seremi](https://twitter.com/SeremiSalud_I), [Gore](https://twitter.com/Gore_Tarapaca)|
 |Antofagasta|[Gore](https://twitter.com/GOREAntofagasta), [Dashboard oficial](https://experience.arcgis.com/experience/13813048c0d54a61bc53d536225d5e28/)
 |Atacama|[Seremi](https://twitter.com/SeremiSalud3)|
 |Coquimbo|[Gore](https://twitter.com/gorecoquimbo), [Seremi](https://twitter.com/SeremiSalud_Coq), [ULS](https://bigdatauls.userena.cl/salud/covid-19/region-coquimbo/)|
 |Valparaíso|[Seremi](https://seremi5.redsalud.gob.cl/reporte-regional), [Seremi Twitter](https://twitter.com/SaludSsrv)|
-|O'Higgins|[Gore](http://www.goreohiggins.cl/noticias/noticias-gore/108-covid-19-informe-diario)|
+|O'Higgins|[Municipalidad de Rancagua](https://twitter.com/munirancagua),[Gore](http://www.goreohiggins.cl/noticias/noticias-gore/108-covid-19-informe-diario)|
 |Maule|[Seremi](https://twitter.com/SeremiSaludM), [SSMaule](https://twitter.com/SSMaule)|
 |Ñuble|[Seremi](https://www.seremidesaludnuble.cl/comunicado-regional-covid-19/), [Chillan Online](http://www.chillanonline.cl/V5/), [Ñuble Online](https://twitter.com/NUBLEONLINE_)|
 |Biobío|[Seremi](http://www.seremidesaludbiobio.cl/sd/web/#), [Seremi Facebook](https://www.facebook.com/seremisalud.biobio/)|
@@ -48,7 +59,7 @@ Las demás regiones están completas.
 |Los Ríos|[Seremi](https://seremi14.redsalud.gob.cl/), [Dashboard Oficial](https://www.canva.com/design/DAD6TwPrraQ/0w6qmDIE9COQP9cUOSek6w/view?utm_content=DAD6TwPrraQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)|
 |Los Lagos|[Seremi](https://seremi10.redsalud.gob.cl/17466-2/)|
 |Aysén|[Seremi](https://seremi11.redsalud.gob.cl/coronavirus/)|
-|Magallanes|[Seremi](https://seremi12.redsalud.gob.cl/), [Intendencia](https://twitter.com/IntendenciaM)|
+|Magallanes|[Dashboard oficial](https://contingencia-coronavirus-snit-magallanes.hub.arcgis.com), [Seremi](https://seremi12.redsalud.gob.cl/), [Intendencia](https://twitter.com/IntendenciaM)|
 
 ### Campos del archivo
 * `Fecha` en formato `dd-mm-yyyy`
