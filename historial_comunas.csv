@@ -272,6 +272,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,15101,AP,Arica,10210,25
 14-12-2020,15101,AP,Arica,10232,22
 15-12-2020,15101,AP,Arica,10244,12
+16-12-2020,15101,AP,Arica,10253,9
 12-07-2020,15102,AP,Camarones,13,13
 13-07-2020,15102,AP,Camarones,13,0
 14-07-2020,15102,AP,Camarones,13,0
@@ -429,6 +430,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,15102,AP,Camarones,28,0
 14-12-2020,15102,AP,Camarones,28,0
 15-12-2020,15102,AP,Camarones,28,0
+16-12-2020,15102,AP,Camarones,28,0
 23-07-2020,15202,AP,General Lagos,1,1
 24-07-2020,15202,AP,General Lagos,1,0
 25-07-2020,15202,AP,General Lagos,1,0
@@ -575,6 +577,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,15202,AP,General Lagos,64,0
 14-12-2020,15202,AP,General Lagos,64,0
 15-12-2020,15202,AP,General Lagos,64,0
+16-12-2020,15202,AP,General Lagos,64,0
 07-06-2020,15201,AP,Putre,1,1
 08-06-2020,15201,AP,Putre,1,0
 09-06-2020,15201,AP,Putre,1,0
@@ -767,6 +770,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,15201,AP,Putre,73,0
 14-12-2020,15201,AP,Putre,73,0
 15-12-2020,15201,AP,Putre,73,0
+16-12-2020,15201,AP,Putre,73,0
 22-03-2020,1101,TA,Iquique,1,1
 23-03-2020,1101,TA,Iquique,4,3
 24-03-2020,1101,TA,Iquique,4,0
@@ -1036,6 +1040,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1101,TA,Iquique,8207,46
 14-12-2020,1101,TA,Iquique,8242,35
 15-12-2020,1101,TA,Iquique,8280,38
+16-12-2020,1101,TA,Iquique,8331,51
 31-03-2020,1107,TA,Alto Hospicio,2,2
 01-04-2020,1107,TA,Alto Hospicio,2,0
 02-04-2020,1107,TA,Alto Hospicio,3,1
@@ -1296,6 +1301,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1107,TA,Alto Hospicio,3979,26
 14-12-2020,1107,TA,Alto Hospicio,3991,12
 15-12-2020,1107,TA,Alto Hospicio,4022,31
+16-12-2020,1107,TA,Alto Hospicio,4043,21
 04-04-2020,1405,TA,Pica,1,1
 05-04-2020,1405,TA,Pica,1,0
 06-04-2020,1405,TA,Pica,1,0
@@ -1552,6 +1558,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1405,TA,Pica,385,0
 14-12-2020,1405,TA,Pica,385,0
 15-12-2020,1405,TA,Pica,385,0
+16-12-2020,1405,TA,Pica,387,2
 05-04-2020,1401,TA,Pozo Almonte,2,2
 06-04-2020,1401,TA,Pozo Almonte,2,0
 07-04-2020,1401,TA,Pozo Almonte,2,0
@@ -1807,6 +1814,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1401,TA,Pozo Almonte,1152,4
 14-12-2020,1401,TA,Pozo Almonte,1153,1
 15-12-2020,1401,TA,Pozo Almonte,1155,2
+16-12-2020,1401,TA,Pozo Almonte,1157,2
 02-05-2020,1404,TA,Huara,1,1
 03-05-2020,1404,TA,Huara,3,2
 04-05-2020,1404,TA,Huara,3,0
@@ -2035,6 +2043,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1404,TA,Huara,178,6
 14-12-2020,1404,TA,Huara,180,2
 15-12-2020,1404,TA,Huara,181,1
+16-12-2020,1404,TA,Huara,181,0
 28-05-2020,1402,TA,Camiña,2,2
 29-05-2020,1402,TA,Camiña,2,0
 30-05-2020,1402,TA,Camiña,2,0
@@ -2237,6 +2246,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1402,TA,Camiña,77,0
 14-12-2020,1402,TA,Camiña,78,1
 15-12-2020,1402,TA,Camiña,78,0
+16-12-2020,1402,TA,Camiña,78,0
 28-05-2020,1403,TA,Colchane,1,1
 29-05-2020,1403,TA,Colchane,1,0
 30-05-2020,1403,TA,Colchane,1,0
@@ -2439,6 +2449,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,1403,TA,Colchane,106,0
 14-12-2020,1403,TA,Colchane,106,0
 15-12-2020,1403,TA,Colchane,106,0
+16-12-2020,1403,TA,Colchane,106,0
 19-03-2020,2101,AN,Antofagasta,2,2
 20-03-2020,2101,AN,Antofagasta,6,4
 21-03-2020,2101,AN,Antofagasta,7,1
@@ -2711,6 +2722,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2101,AN,Antofagasta,11983,54
 14-12-2020,2101,AN,Antofagasta,12026,43
 15-12-2020,2101,AN,Antofagasta,12055,29
+16-12-2020,2101,AN,Antofagasta,12080,25
 06-04-2020,2102,AN,Mejillones,1,1
 07-04-2020,2102,AN,Mejillones,1,0
 08-04-2020,2102,AN,Mejillones,2,1
@@ -2965,6 +2977,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2102,AN,Mejillones,795,-2
 14-12-2020,2102,AN,Mejillones,810,15
 15-12-2020,2102,AN,Mejillones,813,3
+16-12-2020,2102,AN,Mejillones,813,0
 07-05-2020,2103,AN,Sierra Gorda,2,2
 08-05-2020,2103,AN,Sierra Gorda,2,0
 09-05-2020,2103,AN,Sierra Gorda,2,0
@@ -3188,6 +3201,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2103,AN,Sierra Gorda,161,0
 14-12-2020,2103,AN,Sierra Gorda,161,0
 15-12-2020,2103,AN,Sierra Gorda,161,0
+16-12-2020,2103,AN,Sierra Gorda,161,0
 08-04-2020,2104,AN,Taltal,1,1
 09-04-2020,2104,AN,Taltal,1,0
 10-04-2020,2104,AN,Taltal,3,2
@@ -3440,6 +3454,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2104,AN,Taltal,214,1
 14-12-2020,2104,AN,Taltal,214,0
 15-12-2020,2104,AN,Taltal,214,0
+16-12-2020,2104,AN,Taltal,214,0
 14-03-2020,2201,AN,Calama,2,2
 15-03-2020,2201,AN,Calama,2,0
 16-03-2020,2201,AN,Calama,2,0
@@ -3717,6 +3732,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2201,AN,Calama,7661,4
 14-12-2020,2201,AN,Calama,7663,2
 15-12-2020,2201,AN,Calama,7668,5
+16-12-2020,2201,AN,Calama,7669,1
 08-06-2020,2202,AN,Ollagüe,2,2
 09-06-2020,2202,AN,Ollagüe,2,0
 10-06-2020,2202,AN,Ollagüe,2,0
@@ -3908,6 +3924,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2202,AN,Ollagüe,26,0
 14-12-2020,2202,AN,Ollagüe,26,0
 15-12-2020,2202,AN,Ollagüe,26,0
+16-12-2020,2202,AN,Ollagüe,26,0
 30-03-2020,2203,AN,San Pedro de Atacama,1,1
 31-03-2020,2203,AN,San Pedro de Atacama,1,0
 01-04-2020,2203,AN,San Pedro de Atacama,2,1
@@ -4169,6 +4186,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2203,AN,San Pedro de Atacama,399,0
 14-12-2020,2203,AN,San Pedro de Atacama,399,0
 15-12-2020,2203,AN,San Pedro de Atacama,399,0
+16-12-2020,2203,AN,San Pedro de Atacama,399,0
 19-03-2020,2301,AN,Tocopilla,2,2
 20-03-2020,2301,AN,Tocopilla,2,0
 21-03-2020,2301,AN,Tocopilla,2,0
@@ -4441,6 +4459,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2301,AN,Tocopilla,387,3
 14-12-2020,2301,AN,Tocopilla,387,0
 15-12-2020,2301,AN,Tocopilla,387,0
+16-12-2020,2301,AN,Tocopilla,387,0
 13-04-2020,2302,AN,María Elena,1,1
 14-04-2020,2302,AN,María Elena,1,0
 15-04-2020,2302,AN,María Elena,2,1
@@ -4688,6 +4707,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,2302,AN,María Elena,360,0
 14-12-2020,2302,AN,María Elena,360,0
 15-12-2020,2302,AN,María Elena,360,0
+16-12-2020,2302,AN,María Elena,360,0
 22-05-2020,3201,AT,Chañaral,1,1
 23-05-2020,3201,AT,Chañaral,1,0
 24-05-2020,3201,AT,Chañaral,1,0
@@ -4895,6 +4915,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3201,AT,Chañaral,196,0
 14-12-2020,3201,AT,Chañaral,196,0
 15-12-2020,3201,AT,Chañaral,196,0
+16-12-2020,3201,AT,Chañaral,196,0
 28-03-2020,3202,AT,Diego de Almagro,1,1
 29-03-2020,3202,AT,Diego de Almagro,1,0
 30-03-2020,3202,AT,Diego de Almagro,1,0
@@ -5157,6 +5178,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3202,AT,Diego de Almagro,358,0
 14-12-2020,3202,AT,Diego de Almagro,358,0
 15-12-2020,3202,AT,Diego de Almagro,359,1
+16-12-2020,3202,AT,Diego de Almagro,359,0
 03-05-2020,3102,AT,Caldera,1,1
 04-05-2020,3102,AT,Caldera,1,0
 05-05-2020,3102,AT,Caldera,1,0
@@ -5383,6 +5405,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3102,AT,Caldera,331,1
 14-12-2020,3102,AT,Caldera,332,1
 15-12-2020,3102,AT,Caldera,334,2
+16-12-2020,3102,AT,Caldera,334,0
 15-03-2020,3101,AT,Copiapó,1,1
 16-03-2020,3101,AT,Copiapó,1,0
 17-03-2020,3101,AT,Copiapó,1,0
@@ -5658,6 +5681,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3101,AT,Copiapó,4852,5
 14-12-2020,3101,AT,Copiapó,4855,3
 15-12-2020,3101,AT,Copiapó,4856,1
+16-12-2020,3101,AT,Copiapó,4859,3
 07-04-2020,3103,AT,Tierra Amarilla,1,1
 08-04-2020,3103,AT,Tierra Amarilla,2,1
 09-04-2020,3103,AT,Tierra Amarilla,4,2
@@ -5910,6 +5934,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3103,AT,Tierra Amarilla,436,0
 14-12-2020,3103,AT,Tierra Amarilla,436,0
 15-12-2020,3103,AT,Tierra Amarilla,436,0
+16-12-2020,3103,AT,Tierra Amarilla,439,3
 02-06-2020,3302,AT,Alto del Carmen,1,1
 03-06-2020,3302,AT,Alto del Carmen,1,0
 04-06-2020,3302,AT,Alto del Carmen,1,0
@@ -6106,6 +6131,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3302,AT,Alto del Carmen,49,0
 14-12-2020,3302,AT,Alto del Carmen,49,0
 15-12-2020,3302,AT,Alto del Carmen,49,0
+16-12-2020,3302,AT,Alto del Carmen,49,0
 29-04-2020,3303,AT,Freirina,1,1
 30-04-2020,3303,AT,Freirina,1,0
 01-05-2020,3303,AT,Freirina,1,0
@@ -6336,6 +6362,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3303,AT,Freirina,196,0
 14-12-2020,3303,AT,Freirina,196,0
 15-12-2020,3303,AT,Freirina,196,0
+16-12-2020,3303,AT,Freirina,196,0
 01-05-2020,3304,AT,Huasco,1,1
 02-05-2020,3304,AT,Huasco,1,0
 03-05-2020,3304,AT,Huasco,1,0
@@ -6564,6 +6591,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3304,AT,Huasco,280,0
 14-12-2020,3304,AT,Huasco,281,1
 15-12-2020,3304,AT,Huasco,281,0
+16-12-2020,3304,AT,Huasco,281,0
 23-04-2020,3301,AT,Vallenar,7,7
 24-04-2020,3301,AT,Vallenar,10,3
 25-04-2020,3301,AT,Vallenar,10,0
@@ -6800,6 +6828,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,3301,AT,Vallenar,1573,4
 14-12-2020,3301,AT,Vallenar,1573,0
 15-12-2020,3301,AT,Vallenar,1578,5
+16-12-2020,3301,AT,Vallenar,1581,3
 18-03-2020,4102,CO,Coquimbo,2,2
 19-03-2020,4102,CO,Coquimbo,2,0
 20-03-2020,4102,CO,Coquimbo,2,0
@@ -7072,6 +7101,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4102,CO,Coquimbo,4464,8
 14-12-2020,4102,CO,Coquimbo,4475,11
 15-12-2020,4102,CO,Coquimbo,4480,5
+16-12-2020,4102,CO,Coquimbo,4487,7
 30-03-2020,4101,CO,La Serena,2,2
 31-03-2020,4101,CO,La Serena,2,0
 01-04-2020,4101,CO,La Serena,3,1
@@ -7332,6 +7362,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4101,CO,La Serena,3286,5
 14-12-2020,4101,CO,La Serena,3301,15
 15-12-2020,4101,CO,La Serena,3308,7
+16-12-2020,4101,CO,La Serena,3314,6
 24-03-2020,4301,CO,Ovalle,1,1
 25-03-2020,4301,CO,Ovalle,1,0
 26-03-2020,4301,CO,Ovalle,1,0
@@ -7598,6 +7629,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4301,CO,Ovalle,2263,1
 14-12-2020,4301,CO,Ovalle,2302,39
 15-12-2020,4301,CO,Ovalle,2313,11
+16-12-2020,4301,CO,Ovalle,2324,11
 11-05-2020,4303,CO,Monte Patria,1,1
 12-05-2020,4303,CO,Monte Patria,1,0
 13-05-2020,4303,CO,Monte Patria,1,0
@@ -7816,6 +7848,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4303,CO,Monte Patria,481,0
 14-12-2020,4303,CO,Monte Patria,492,11
 15-12-2020,4303,CO,Monte Patria,492,0
+16-12-2020,4303,CO,Monte Patria,492,0
 03-04-2020,4201,CO,Illapel,1,1
 04-04-2020,4201,CO,Illapel,2,1
 05-04-2020,4201,CO,Illapel,7,5
@@ -8072,6 +8105,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4201,CO,Illapel,496,0
 14-12-2020,4201,CO,Illapel,496,0
 15-12-2020,4201,CO,Illapel,498,2
+16-12-2020,4201,CO,Illapel,498,0
 26-03-2020,4203,CO,Los Vilos,1,1
 27-03-2020,4203,CO,Los Vilos,1,0
 28-03-2020,4203,CO,Los Vilos,1,0
@@ -8336,6 +8370,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4203,CO,Los Vilos,332,1
 14-12-2020,4203,CO,Los Vilos,332,0
 15-12-2020,4203,CO,Los Vilos,333,1
+16-12-2020,4203,CO,Los Vilos,334,1
 19-03-2020,4204,CO,Salamanca,1,1
 20-03-2020,4204,CO,Salamanca,1,0
 21-03-2020,4204,CO,Salamanca,1,0
@@ -8607,6 +8642,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4204,CO,Salamanca,256,0
 14-12-2020,4204,CO,Salamanca,258,2
 15-12-2020,4204,CO,Salamanca,260,2
+16-12-2020,4204,CO,Salamanca,260,0
 22-04-2020,4304,CO,Punitaqui,1,1
 23-04-2020,4304,CO,Punitaqui,1,0
 24-04-2020,4304,CO,Punitaqui,1,0
@@ -8844,6 +8880,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4304,CO,Punitaqui,226,1
 14-12-2020,4304,CO,Punitaqui,232,6
 15-12-2020,4304,CO,Punitaqui,236,4
+16-12-2020,4304,CO,Punitaqui,238,2
 03-05-2020,4103,CO,Andacollo,2,2
 04-05-2020,4103,CO,Andacollo,2,0
 05-05-2020,4103,CO,Andacollo,2,0
@@ -9070,6 +9107,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4103,CO,Andacollo,181,0
 14-12-2020,4103,CO,Andacollo,181,0
 15-12-2020,4103,CO,Andacollo,181,0
+16-12-2020,4103,CO,Andacollo,181,0
 03-05-2020,4106,CO,Vicuña,1,1
 04-05-2020,4106,CO,Vicuña,1,0
 05-05-2020,4106,CO,Vicuña,1,0
@@ -9296,6 +9334,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4106,CO,Vicuña,259,1
 14-12-2020,4106,CO,Vicuña,259,0
 15-12-2020,4106,CO,Vicuña,261,2
+16-12-2020,4106,CO,Vicuña,261,0
 09-05-2020,4302,CO,Combarbalá,2,2
 10-05-2020,4302,CO,Combarbalá,2,0
 11-05-2020,4302,CO,Combarbalá,2,0
@@ -9516,6 +9555,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4302,CO,Combarbalá,99,1
 14-12-2020,4302,CO,Combarbalá,101,2
 15-12-2020,4302,CO,Combarbalá,101,0
+16-12-2020,4302,CO,Combarbalá,101,0
 27-03-2020,4305,CO,Río Hurtado,1,1
 28-03-2020,4305,CO,Río Hurtado,1,0
 29-03-2020,4305,CO,Río Hurtado,1,0
@@ -9779,6 +9819,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4305,CO,Río Hurtado,47,0
 14-12-2020,4305,CO,Río Hurtado,47,0
 15-12-2020,4305,CO,Río Hurtado,47,0
+16-12-2020,4305,CO,Río Hurtado,47,0
 05-05-2020,4202,CO,Canela,1,1
 06-05-2020,4202,CO,Canela,1,0
 07-05-2020,4202,CO,Canela,1,0
@@ -10003,6 +10044,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4202,CO,Canela,100,1
 14-12-2020,4202,CO,Canela,100,0
 15-12-2020,4202,CO,Canela,100,0
+16-12-2020,4202,CO,Canela,100,0
 31-05-2020,4105,CO,Paihuano,2,2
 01-06-2020,4105,CO,Paihuano,2,0
 02-06-2020,4105,CO,Paihuano,2,0
@@ -10201,6 +10243,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4105,CO,Paihuano,37,0
 14-12-2020,4105,CO,Paihuano,37,0
 15-12-2020,4105,CO,Paihuano,37,0
+16-12-2020,4105,CO,Paihuano,37,0
 01-06-2020,4104,CO,La Higuera,1,1
 02-06-2020,4104,CO,La Higuera,1,0
 03-06-2020,4104,CO,La Higuera,1,0
@@ -10398,6 +10441,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,4104,CO,La Higuera,100,0
 14-12-2020,4104,CO,La Higuera,100,0
 15-12-2020,4104,CO,La Higuera,100,0
+16-12-2020,4104,CO,La Higuera,100,0
 16-03-2020,5109,VS,Viña del Mar,1,1
 17-03-2020,5109,VS,Viña del Mar,1,0
 18-03-2020,5109,VS,Viña del Mar,2,1
@@ -10673,6 +10717,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5109,VS,Viña del Mar,5752,35
 14-12-2020,5109,VS,Viña del Mar,5774,22
 15-12-2020,5109,VS,Viña del Mar,5792,18
+16-12-2020,5109,VS,Viña del Mar,5805,13
 23-03-2020,5101,VS,Valparaíso,2,2
 24-03-2020,5101,VS,Valparaíso,4,2
 25-03-2020,5101,VS,Valparaíso,4,0
@@ -10941,6 +10986,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5101,VS,Valparaíso,6137,32
 14-12-2020,5101,VS,Valparaíso,6161,24
 15-12-2020,5101,VS,Valparaíso,6183,22
+16-12-2020,5101,VS,Valparaíso,6208,25
 01-04-2020,5601,VS,San Antonio,1,1
 02-04-2020,5601,VS,San Antonio,2,1
 03-04-2020,5601,VS,San Antonio,7,5
@@ -11200,6 +11246,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5601,VS,San Antonio,1796,-1
 14-12-2020,5601,VS,San Antonio,1799,3
 15-12-2020,5601,VS,San Antonio,1801,2
+16-12-2020,5601,VS,San Antonio,1807,6
 18-03-2020,5801,VS,Quilpué,1,1
 19-03-2020,5801,VS,Quilpué,1,0
 20-03-2020,5801,VS,Quilpué,2,1
@@ -11473,6 +11520,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5801,VS,Quilpué,2611,16
 14-12-2020,5801,VS,Quilpué,2617,6
 15-12-2020,5801,VS,Quilpué,2622,5
+16-12-2020,5801,VS,Quilpué,2633,11
 25-03-2020,5501,VS,Quillota,1,1
 26-03-2020,5501,VS,Quillota,1,0
 27-03-2020,5501,VS,Quillota,1,0
@@ -11739,6 +11787,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5501,VS,Quillota,1765,4
 14-12-2020,5501,VS,Quillota,1767,2
 15-12-2020,5501,VS,Quillota,1770,3
+16-12-2020,5501,VS,Quillota,1772,2
 25-03-2020,5804,VS,Villa Alemana,2,2
 26-03-2020,5804,VS,Villa Alemana,3,1
 27-03-2020,5804,VS,Villa Alemana,3,0
@@ -12005,6 +12054,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5804,VS,Villa Alemana,2097,13
 14-12-2020,5804,VS,Villa Alemana,2099,2
 15-12-2020,5804,VS,Villa Alemana,2103,4
+16-12-2020,5804,VS,Villa Alemana,2123,20
 24-03-2020,5301,VS,Los Andes,1,1
 25-03-2020,5301,VS,Los Andes,1,0
 26-03-2020,5301,VS,Los Andes,2,1
@@ -12272,6 +12322,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5301,VS,Los Andes,1199,1
 14-12-2020,5301,VS,Los Andes,1199,0
 15-12-2020,5301,VS,Los Andes,1199,0
+16-12-2020,5301,VS,Los Andes,1201,2
 22-03-2020,5701,VS,San Felipe,1,1
 23-03-2020,5701,VS,San Felipe,1,0
 24-03-2020,5701,VS,San Felipe,1,0
@@ -12541,6 +12592,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5701,VS,San Felipe,1325,5
 14-12-2020,5701,VS,San Felipe,1327,2
 15-12-2020,5701,VS,San Felipe,1330,3
+16-12-2020,5701,VS,San Felipe,1333,3
 27-03-2020,5502,VS,La Calera,5,5
 28-03-2020,5502,VS,La Calera,5,0
 29-03-2020,5502,VS,La Calera,5,0
@@ -12805,6 +12857,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5502,VS,La Calera,1191,1
 14-12-2020,5502,VS,La Calera,1191,0
 15-12-2020,5502,VS,La Calera,1193,2
+16-12-2020,5502,VS,La Calera,1193,0
 25-03-2020,5802,VS,Limache,2,2
 26-03-2020,5802,VS,Limache,2,0
 27-03-2020,5802,VS,Limache,2,0
@@ -13071,6 +13124,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5802,VS,Limache,932,3
 14-12-2020,5802,VS,Limache,935,3
 15-12-2020,5802,VS,Limache,936,1
+16-12-2020,5802,VS,Limache,938,2
 18-03-2020,5103,VS,Concón,1,1
 19-03-2020,5103,VS,Concón,1,0
 20-03-2020,5103,VS,Concón,1,0
@@ -13344,6 +13398,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5103,VS,Concón,661,3
 14-12-2020,5103,VS,Concón,664,3
 15-12-2020,5103,VS,Concón,667,3
+16-12-2020,5103,VS,Concón,667,0
 24-03-2020,5107,VS,Quintero,1,1
 25-03-2020,5107,VS,Quintero,1,0
 26-03-2020,5107,VS,Quintero,1,0
@@ -13611,6 +13666,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5107,VS,Quintero,463,2
 14-12-2020,5107,VS,Quintero,466,3
 15-12-2020,5107,VS,Quintero,467,1
+16-12-2020,5107,VS,Quintero,466,-1
 24-03-2020,5401,VS,La Ligua,1,1
 25-03-2020,5401,VS,La Ligua,1,0
 26-03-2020,5401,VS,La Ligua,1,0
@@ -13878,6 +13934,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5401,VS,La Ligua,652,0
 14-12-2020,5401,VS,La Ligua,652,0
 15-12-2020,5401,VS,La Ligua,654,2
+16-12-2020,5401,VS,La Ligua,655,1
 23-03-2020,5703,VS,LlaiLlay,1,1
 24-03-2020,5703,VS,LlaiLlay,1,0
 25-03-2020,5703,VS,LlaiLlay,1,0
@@ -14143,6 +14200,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5703,VS,LlaiLlay,433,1
 14-12-2020,5703,VS,LlaiLlay,434,1
 15-12-2020,5703,VS,LlaiLlay,437,3
+16-12-2020,5703,VS,LlaiLlay,437,0
 27-04-2020,5402,VS,Cabildo,3,3
 28-04-2020,5402,VS,Cabildo,3,0
 29-04-2020,5402,VS,Cabildo,3,0
@@ -14376,6 +14434,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5402,VS,Cabildo,337,0
 14-12-2020,5402,VS,Cabildo,338,1
 15-12-2020,5402,VS,Cabildo,339,1
+16-12-2020,5402,VS,Cabildo,338,-1
 01-04-2020,5302,VS,Calle Larga,1,1
 02-04-2020,5302,VS,Calle Larga,1,0
 03-04-2020,5302,VS,Calle Larga,2,1
@@ -14635,6 +14694,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5302,VS,Calle Larga,289,-1
 14-12-2020,5302,VS,Calle Larga,291,2
 15-12-2020,5302,VS,Calle Larga,292,1
+16-12-2020,5302,VS,Calle Larga,293,1
 26-03-2020,5705,VS,Putaendo,1,1
 27-03-2020,5705,VS,Putaendo,1,0
 28-03-2020,5705,VS,Putaendo,1,0
@@ -14900,6 +14960,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5705,VS,Putaendo,300,0
 14-12-2020,5705,VS,Putaendo,300,0
 15-12-2020,5705,VS,Putaendo,300,0
+16-12-2020,5705,VS,Putaendo,300,0
 29-03-2020,5706,VS,Santa María,1,1
 30-03-2020,5706,VS,Santa María,1,0
 31-03-2020,5706,VS,Santa María,1,0
@@ -15162,6 +15223,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5706,VS,Santa María,300,2
 14-12-2020,5706,VS,Santa María,300,0
 15-12-2020,5706,VS,Santa María,300,0
+16-12-2020,5706,VS,Santa María,301,1
 30-03-2020,5603,VS,Cartagena,1,1
 31-03-2020,5603,VS,Cartagena,1,0
 01-04-2020,5603,VS,Cartagena,1,0
@@ -15423,6 +15485,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5603,VS,Cartagena,289,0
 14-12-2020,5603,VS,Cartagena,289,0
 15-12-2020,5603,VS,Cartagena,290,1
+16-12-2020,5603,VS,Cartagena,290,0
 18-04-2020,5304,VS,San Esteban,1,1
 19-04-2020,5304,VS,San Esteban,1,0
 20-04-2020,5304,VS,San Esteban,1,0
@@ -15665,6 +15728,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5304,VS,San Esteban,265,1
 14-12-2020,5304,VS,San Esteban,266,1
 15-12-2020,5304,VS,San Esteban,266,0
+16-12-2020,5304,VS,San Esteban,266,0
 02-04-2020,5604,VS,El Quisco,1,1
 03-04-2020,5604,VS,El Quisco,1,0
 04-04-2020,5604,VS,El Quisco,1,0
@@ -15923,6 +15987,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5604,VS,El Quisco,276,0
 14-12-2020,5604,VS,El Quisco,276,0
 15-12-2020,5604,VS,El Quisco,281,5
+16-12-2020,5604,VS,El Quisco,282,1
 30-03-2020,5605,VS,El Tabo,1,1
 31-03-2020,5605,VS,El Tabo,1,0
 01-04-2020,5605,VS,El Tabo,1,0
@@ -16184,6 +16249,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5605,VS,El Tabo,227,1
 14-12-2020,5605,VS,El Tabo,227,0
 15-12-2020,5605,VS,El Tabo,228,1
+16-12-2020,5605,VS,El Tabo,228,0
 18-04-2020,5503,VS,Hijuelas,1,1
 19-04-2020,5503,VS,Hijuelas,1,0
 20-04-2020,5503,VS,Hijuelas,1,0
@@ -16426,6 +16492,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5503,VS,Hijuelas,340,0
 14-12-2020,5503,VS,Hijuelas,340,0
 15-12-2020,5503,VS,Hijuelas,341,1
+16-12-2020,5503,VS,Hijuelas,342,1
 20-03-2020,5606,VS,Santo Domingo,1,1
 30-03-2020,5606,VS,Santo Domingo,1,0
 31-03-2020,5606,VS,Santo Domingo,1,0
@@ -16688,6 +16755,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5606,VS,Santo Domingo,188,0
 14-12-2020,5606,VS,Santo Domingo,188,0
 15-12-2020,5606,VS,Santo Domingo,192,4
+16-12-2020,5606,VS,Santo Domingo,192,0
 22-03-2020,5504,VS,La Cruz,1,1
 23-03-2020,5504,VS,La Cruz,1,0
 24-03-2020,5504,VS,La Cruz,1,0
@@ -16957,6 +17025,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5504,VS,La Cruz,338,2
 14-12-2020,5504,VS,La Cruz,338,0
 15-12-2020,5504,VS,La Cruz,339,1
+16-12-2020,5504,VS,La Cruz,340,1
 24-03-2020,5102,VS,Casablanca,1,1
 25-03-2020,5102,VS,Casablanca,1,0
 26-03-2020,5102,VS,Casablanca,2,1
@@ -17224,6 +17293,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5102,VS,Casablanca,382,2
 14-12-2020,5102,VS,Casablanca,382,0
 15-12-2020,5102,VS,Casablanca,382,0
+16-12-2020,5102,VS,Casablanca,384,2
 07-04-2020,5303,VS,Rinconada,1,1
 08-04-2020,5303,VS,Rinconada,1,0
 09-04-2020,5303,VS,Rinconada,2,1
@@ -17477,6 +17547,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5303,VS,Rinconada,161,0
 14-12-2020,5303,VS,Rinconada,161,0
 15-12-2020,5303,VS,Rinconada,161,0
+16-12-2020,5303,VS,Rinconada,161,0
 29-04-2020,5105,VS,Puchuncaví,1,1
 20-05-2020,5105,VS,Puchuncaví,1,0
 21-05-2020,5105,VS,Puchuncaví,1,0
@@ -17688,6 +17759,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5105,VS,Puchuncaví,190,1
 14-12-2020,5105,VS,Puchuncaví,191,1
 15-12-2020,5105,VS,Puchuncaví,192,1
+16-12-2020,5105,VS,Puchuncaví,192,0
 09-05-2020,5506,VS,Nogales,1,1
 10-05-2020,5506,VS,Nogales,1,0
 11-05-2020,5506,VS,Nogales,1,0
@@ -17909,6 +17981,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5506,VS,Nogales,442,1
 14-12-2020,5506,VS,Nogales,443,1
 15-12-2020,5506,VS,Nogales,448,5
+16-12-2020,5506,VS,Nogales,448,0
 12-04-2020,5803,VS,Olmué,1,1
 13-04-2020,5803,VS,Olmué,1,0
 14-04-2020,5803,VS,Olmué,1,0
@@ -18157,6 +18230,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5803,VS,Olmué,301,1
 14-12-2020,5803,VS,Olmué,303,2
 15-12-2020,5803,VS,Olmué,303,0
+16-12-2020,5803,VS,Olmué,303,0
 26-03-2020,5602,VS,Algarrobo,2,2
 27-03-2020,5602,VS,Algarrobo,2,0
 28-03-2020,5602,VS,Algarrobo,7,5
@@ -18422,6 +18496,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5602,VS,Algarrobo,201,0
 14-12-2020,5602,VS,Algarrobo,201,0
 15-12-2020,5602,VS,Algarrobo,203,2
+16-12-2020,5602,VS,Algarrobo,204,1
 03-05-2020,5702,VS,Catemu,1,1
 04-05-2020,5702,VS,Catemu,1,0
 05-05-2020,5702,VS,Catemu,1,0
@@ -18649,6 +18724,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5702,VS,Catemu,324,0
 14-12-2020,5702,VS,Catemu,325,1
 15-12-2020,5702,VS,Catemu,325,0
+16-12-2020,5702,VS,Catemu,327,2
 13-05-2020,5704,VS,Panquehue,1,1
 14-05-2020,5704,VS,Panquehue,1,0
 15-05-2020,5704,VS,Panquehue,1,0
@@ -18866,6 +18942,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5704,VS,Panquehue,120,0
 14-12-2020,5704,VS,Panquehue,120,0
 15-12-2020,5704,VS,Panquehue,120,0
+16-12-2020,5704,VS,Panquehue,120,0
 27-03-2020,5403,VS,Papudo,1,1
 28-03-2020,5403,VS,Papudo,1,0
 29-03-2020,5403,VS,Papudo,1,0
@@ -19079,6 +19156,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5403,VS,Papudo,148,0
 14-12-2020,5403,VS,Papudo,151,3
 15-12-2020,5403,VS,Papudo,151,0
+16-12-2020,5403,VS,Papudo,151,0
 30-03-2020,5404,VS,Petorca,1,1
 31-03-2020,5404,VS,Petorca,1,0
 01-04-2020,5404,VS,Petorca,1,0
@@ -19340,6 +19418,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5404,VS,Petorca,151,0
 14-12-2020,5404,VS,Petorca,152,1
 15-12-2020,5404,VS,Petorca,152,0
+16-12-2020,5404,VS,Petorca,152,0
 11-05-2020,5405,VS,Zapallar,1,1
 12-05-2020,5405,VS,Zapallar,1,0
 13-05-2020,5405,VS,Zapallar,1,0
@@ -19559,6 +19638,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5405,VS,Zapallar,124,0
 14-12-2020,5405,VS,Zapallar,124,0
 15-12-2020,5405,VS,Zapallar,124,0
+16-12-2020,5405,VS,Zapallar,125,1
 24-03-2020,5201,VS,Isla de Pascua,1,1
 25-03-2020,5201,VS,Isla de Pascua,1,0
 26-03-2020,5201,VS,Isla de Pascua,1,0
@@ -19826,6 +19906,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5201,VS,Isla de Pascua,9,0
 14-12-2020,5201,VS,Isla de Pascua,9,0
 15-12-2020,5201,VS,Isla de Pascua,9,0
+16-12-2020,5201,VS,Isla de Pascua,9,0
 20-10-2020,5104,VS,Juan Fernández,1,1
 21-10-2020,5104,VS,Juan Fernández,1,0
 22-10-2020,5104,VS,Juan Fernández,1,0
@@ -19883,6 +19964,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5104,VS,Juan Fernández,1,0
 14-12-2020,5104,VS,Juan Fernández,1,0
 15-12-2020,5104,VS,Juan Fernández,1,0
+16-12-2020,5104,VS,Juan Fernández,1,0
 28-03-2020,5999,VS,Barco Isabela Island,2,2
 29-03-2020,5999,VS,Barco Isabela Island,2,0
 30-03-2020,5999,VS,Barco Isabela Island,2,0
@@ -20146,6 +20228,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,5999,VS,Barco Isabela Island,6,0
 14-12-2020,5999,VS,Barco Isabela Island,6,0
 15-12-2020,5999,VS,Barco Isabela Island,6,0
+16-12-2020,5999,VS,Barco Isabela Island,6,0
 22-05-2020,13502,RM,Alhué,2,2
 25-05-2020,13502,RM,Alhué,3,1
 29-05-2020,13502,RM,Alhué,5,2
@@ -24384,6 +24467,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6101,LI,Rancagua,7431,7
 14-12-2020,6101,LI,Rancagua,7451,20
 15-12-2020,6101,LI,Rancagua,7459,8
+16-12-2020,6101,LI,Rancagua,7474,15
 31-03-2020,6115,LI,Rengo,1,1
 01-04-2020,6115,LI,Rengo,1,0
 02-04-2020,6115,LI,Rengo,1,0
@@ -24644,6 +24728,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6115,LI,Rengo,1190,1
 14-12-2020,6115,LI,Rengo,1192,2
 15-12-2020,6115,LI,Rengo,1194,2
+16-12-2020,6115,LI,Rengo,1197,3
 18-03-2020,6108,LI,Machalí,1,1
 19-03-2020,6108,LI,Machalí,1,0
 20-03-2020,6108,LI,Machalí,1,0
@@ -24917,6 +25002,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6108,LI,Machalí,1226,2
 14-12-2020,6108,LI,Machalí,1228,2
 15-12-2020,6108,LI,Machalí,1231,3
+16-12-2020,6108,LI,Machalí,1232,1
 23-04-2020,6106,LI,Graneros,1,1
 24-04-2020,6106,LI,Graneros,2,1
 25-04-2020,6106,LI,Graneros,2,0
@@ -25154,6 +25240,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6106,LI,Graneros,721,1
 14-12-2020,6106,LI,Graneros,723,2
 15-12-2020,6106,LI,Graneros,724,1
+16-12-2020,6106,LI,Graneros,725,1
 01-04-2020,6117,LI,San Vicente,1,1
 02-04-2020,6117,LI,San Vicente,4,3
 03-04-2020,6117,LI,San Vicente,4,0
@@ -25413,6 +25500,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6117,LI,San Vicente,935,1
 14-12-2020,6117,LI,San Vicente,935,0
 15-12-2020,6117,LI,San Vicente,935,0
+16-12-2020,6117,LI,San Vicente,936,1
 19-03-2020,6301,LI,San Fernando,2,2
 20-03-2020,6301,LI,San Fernando,2,0
 21-03-2020,6301,LI,San Fernando,3,1
@@ -25685,6 +25773,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6301,LI,San Fernando,1387,4
 14-12-2020,6301,LI,San Fernando,1392,5
 15-12-2020,6301,LI,San Fernando,1395,3
+16-12-2020,6301,LI,San Fernando,1395,0
 23-04-2020,6105,LI,Doñihue,1,1
 24-04-2020,6105,LI,Doñihue,1,0
 25-04-2020,6105,LI,Doñihue,1,0
@@ -25922,6 +26011,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6105,LI,Doñihue,650,1
 14-12-2020,6105,LI,Doñihue,653,3
 15-12-2020,6105,LI,Doñihue,662,9
+16-12-2020,6105,LI,Doñihue,664,2
 18-03-2020,6116,LI,Requínoa,1,1
 19-03-2020,6116,LI,Requínoa,1,0
 20-03-2020,6116,LI,Requínoa,1,0
@@ -26195,6 +26285,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6116,LI,Requínoa,485,2
 14-12-2020,6116,LI,Requínoa,487,2
 15-12-2020,6116,LI,Requínoa,489,2
+16-12-2020,6116,LI,Requínoa,492,3
 03-05-2020,6110,LI,Mostazal,1,1
 04-05-2020,6110,LI,Mostazal,1,0
 05-05-2020,6110,LI,Mostazal,1,0
@@ -26422,6 +26513,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6110,LI,Mostazal,374,0
 14-12-2020,6110,LI,Mostazal,374,0
 15-12-2020,6110,LI,Mostazal,374,0
+16-12-2020,6110,LI,Mostazal,374,0
 25-03-2020,6303,LI,Chimbarongo,1,1
 26-03-2020,6303,LI,Chimbarongo,1,0
 27-03-2020,6303,LI,Chimbarongo,1,0
@@ -26688,6 +26780,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6303,LI,Chimbarongo,358,2
 14-12-2020,6303,LI,Chimbarongo,358,0
 15-12-2020,6303,LI,Chimbarongo,361,3
+16-12-2020,6303,LI,Chimbarongo,361,0
 04-04-2020,6310,LI,Santa Cruz,1,1
 05-04-2020,6310,LI,Santa Cruz,1,0
 06-04-2020,6310,LI,Santa Cruz,1,0
@@ -26944,6 +27037,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6310,LI,Santa Cruz,655,4
 14-12-2020,6310,LI,Santa Cruz,655,0
 15-12-2020,6310,LI,Santa Cruz,658,3
+16-12-2020,6310,LI,Santa Cruz,658,0
 01-04-2020,6111,LI,Olivar,1,1
 02-04-2020,6111,LI,Olivar,2,1
 03-04-2020,6111,LI,Olivar,2,0
@@ -27203,6 +27297,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6111,LI,Olivar,330,0
 14-12-2020,6111,LI,Olivar,330,0
 15-12-2020,6111,LI,Olivar,330,0
+16-12-2020,6111,LI,Olivar,331,1
 08-05-2020,6104,LI,Coltauco,1,1
 09-05-2020,6104,LI,Coltauco,1,0
 10-05-2020,6104,LI,Coltauco,1,0
@@ -27425,6 +27520,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6104,LI,Coltauco,546,10
 14-12-2020,6104,LI,Coltauco,551,5
 15-12-2020,6104,LI,Coltauco,555,4
+16-12-2020,6104,LI,Coltauco,558,3
 30-04-2020,6305,LI,Nancagua,1,1
 01-05-2020,6305,LI,Nancagua,1,0
 02-05-2020,6305,LI,Nancagua,1,0
@@ -27655,6 +27751,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6305,LI,Nancagua,197,1
 14-12-2020,6305,LI,Nancagua,197,0
 15-12-2020,6305,LI,Nancagua,197,0
+16-12-2020,6305,LI,Nancagua,197,0
 17-05-2020,6302,LI,Chépica,3,3
 18-05-2020,6302,LI,Chépica,3,0
 19-05-2020,6302,LI,Chépica,5,2
@@ -27868,6 +27965,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6302,LI,Chépica,272,2
 14-12-2020,6302,LI,Chépica,272,0
 15-12-2020,6302,LI,Chépica,272,0
+16-12-2020,6302,LI,Chépica,276,4
 23-04-2020,6103,LI,Coinco,1,1
 24-04-2020,6103,LI,Coinco,1,0
 25-04-2020,6103,LI,Coinco,1,0
@@ -28105,6 +28203,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6103,LI,Coinco,161,2
 14-12-2020,6103,LI,Coinco,161,0
 15-12-2020,6103,LI,Coinco,161,0
+16-12-2020,6103,LI,Coinco,161,0
 28-04-2020,6205,LI,Navidad,2,2
 29-04-2020,6205,LI,Navidad,2,0
 30-04-2020,6205,LI,Navidad,2,0
@@ -28337,6 +28436,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6205,LI,Navidad,68,0
 14-12-2020,6205,LI,Navidad,68,0
 15-12-2020,6205,LI,Navidad,73,5
+16-12-2020,6205,LI,Navidad,73,0
 15-04-2020,6107,LI,Las Cabras,1,1
 16-04-2020,6107,LI,Las Cabras,1,0
 17-04-2020,6107,LI,Las Cabras,1,0
@@ -28582,6 +28682,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6107,LI,Las Cabras,408,0
 14-12-2020,6107,LI,Las Cabras,410,2
 15-12-2020,6107,LI,Las Cabras,413,3
+16-12-2020,6107,LI,Las Cabras,413,0
 23-04-2020,6203,LI,Litueche,1,1
 24-04-2020,6203,LI,Litueche,1,0
 25-04-2020,6203,LI,Litueche,3,2
@@ -28819,6 +28920,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6203,LI,Litueche,76,1
 14-12-2020,6203,LI,Litueche,76,0
 15-12-2020,6203,LI,Litueche,76,0
+16-12-2020,6203,LI,Litueche,76,0
 20-05-2020,6307,LI,Peralillo,1,1
 21-05-2020,6307,LI,Peralillo,1,0
 22-05-2020,6307,LI,Peralillo,2,1
@@ -29029,6 +29131,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6307,LI,Peralillo,97,1
 14-12-2020,6307,LI,Peralillo,97,0
 15-12-2020,6307,LI,Peralillo,97,0
+16-12-2020,6307,LI,Peralillo,97,0
 12-05-2020,6102,LI,Codegua,1,1
 13-05-2020,6102,LI,Codegua,1,0
 14-05-2020,6102,LI,Codegua,1,0
@@ -29247,6 +29350,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6102,LI,Codegua,280,1
 14-12-2020,6102,LI,Codegua,280,0
 15-12-2020,6102,LI,Codegua,280,0
+16-12-2020,6102,LI,Codegua,281,1
 20-03-2020,6308,LI,Placilla,1,1
 21-03-2020,6308,LI,Placilla,1,0
 22-03-2020,6308,LI,Placilla,1,0
@@ -29518,6 +29622,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6308,LI,Placilla,120,0
 14-12-2020,6308,LI,Placilla,120,0
 15-12-2020,6308,LI,Placilla,120,0
+16-12-2020,6308,LI,Placilla,120,0
 08-05-2020,6113,LI,Pichidegua,1,1
 09-05-2020,6113,LI,Pichidegua,1,0
 10-05-2020,6113,LI,Pichidegua,1,0
@@ -29740,6 +29845,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6113,LI,Pichidegua,488,0
 14-12-2020,6113,LI,Pichidegua,488,0
 15-12-2020,6113,LI,Pichidegua,488,0
+16-12-2020,6113,LI,Pichidegua,488,0
 09-05-2020,6201,LI,Pichilemu,1,1
 10-05-2020,6201,LI,Pichilemu,1,0
 11-05-2020,6201,LI,Pichilemu,1,0
@@ -29961,6 +30067,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6201,LI,Pichilemu,134,1
 14-12-2020,6201,LI,Pichilemu,134,0
 15-12-2020,6201,LI,Pichilemu,134,0
+16-12-2020,6201,LI,Pichilemu,134,0
 18-05-2020,6304,LI,Lolol,1,1
 19-05-2020,6304,LI,Lolol,1,0
 20-05-2020,6304,LI,Lolol,1,0
@@ -30173,6 +30280,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6304,LI,Lolol,75,1
 14-12-2020,6304,LI,Lolol,75,0
 15-12-2020,6304,LI,Lolol,75,0
+16-12-2020,6304,LI,Lolol,75,0
 18-05-2020,6109,LI,Malloa,1,1
 19-05-2020,6109,LI,Malloa,1,0
 20-05-2020,6109,LI,Malloa,1,0
@@ -30385,6 +30493,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6109,LI,Malloa,265,0
 14-12-2020,6109,LI,Malloa,266,1
 15-12-2020,6109,LI,Malloa,266,0
+16-12-2020,6109,LI,Malloa,267,1
 21-03-2020,6114,LI,Quinta de Tilcoco,1,1
 22-03-2020,6114,LI,Quinta de Tilcoco,1,0
 23-03-2020,6114,LI,Quinta de Tilcoco,1,0
@@ -30655,6 +30764,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6114,LI,Quinta de Tilcoco,180,0
 14-12-2020,6114,LI,Quinta de Tilcoco,180,0
 15-12-2020,6114,LI,Quinta de Tilcoco,180,0
+16-12-2020,6114,LI,Quinta de Tilcoco,180,0
 04-04-2020,6112,LI,Peumo,1,1
 05-04-2020,6112,LI,Peumo,1,0
 06-04-2020,6112,LI,Peumo,1,0
@@ -30911,6 +31021,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6112,LI,Peumo,323,0
 14-12-2020,6112,LI,Peumo,324,1
 15-12-2020,6112,LI,Peumo,325,1
+16-12-2020,6112,LI,Peumo,325,0
 24-05-2020,6306,LI,Palmilla,1,1
 25-05-2020,6306,LI,Palmilla,1,0
 26-05-2020,6306,LI,Palmilla,2,1
@@ -31117,6 +31228,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6306,LI,Palmilla,151,1
 14-12-2020,6306,LI,Palmilla,152,1
 15-12-2020,6306,LI,Palmilla,152,0
+16-12-2020,6306,LI,Palmilla,152,0
 05-06-2020,6202,LI,La Estrella,1,1
 06-06-2020,6202,LI,La Estrella,1,0
 07-06-2020,6202,LI,La Estrella,1,0
@@ -31311,6 +31423,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6202,LI,La Estrella,37,0
 14-12-2020,6202,LI,La Estrella,37,0
 15-12-2020,6202,LI,La Estrella,37,0
+16-12-2020,6202,LI,La Estrella,37,0
 06-06-2020,6204,LI,Marchihue,1,1
 07-06-2020,6204,LI,Marchihue,1,0
 08-06-2020,6204,LI,Marchihue,3,2
@@ -31504,6 +31617,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6204,LI,Marchihue,91,4
 14-12-2020,6204,LI,Marchihue,91,0
 15-12-2020,6204,LI,Marchihue,91,0
+16-12-2020,6204,LI,Marchihue,91,0
 18-05-2020,6206,LI,Paredones,1,1
 19-05-2020,6206,LI,Paredones,1,0
 20-05-2020,6206,LI,Paredones,1,0
@@ -31716,6 +31830,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6206,LI,Paredones,44,0
 14-12-2020,6206,LI,Paredones,44,0
 15-12-2020,6206,LI,Paredones,44,0
+16-12-2020,6206,LI,Paredones,44,0
 29-05-2020,6309,LI,Pumanque,1,1
 30-05-2020,6309,LI,Pumanque,1,0
 31-05-2020,6309,LI,Pumanque,1,0
@@ -31917,6 +32032,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,6309,LI,Pumanque,21,0
 14-12-2020,6309,LI,Pumanque,21,0
 15-12-2020,6309,LI,Pumanque,21,0
+16-12-2020,6309,LI,Pumanque,21,0
 29-03-2020,7101,ML,Talca,26,26
 30-03-2020,7101,ML,Talca,34,8
 31-03-2020,7101,ML,Talca,34,0
@@ -32179,6 +32295,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7101,ML,Talca,5097,52
 14-12-2020,7101,ML,Talca,5111,14
 15-12-2020,7101,ML,Talca,5144,33
+16-12-2020,7101,ML,Talca,5172,28
 29-03-2020,7301,ML,Curicó,4,4
 30-03-2020,7301,ML,Curicó,5,1
 31-03-2020,7301,ML,Curicó,7,2
@@ -32441,6 +32558,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7301,ML,Curicó,3829,25
 14-12-2020,7301,ML,Curicó,3874,45
 15-12-2020,7301,ML,Curicó,3906,32
+16-12-2020,7301,ML,Curicó,3945,39
 29-03-2020,7401,ML,Linares,2,2
 30-03-2020,7401,ML,Linares,3,1
 31-03-2020,7401,ML,Linares,5,2
@@ -32703,6 +32821,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7401,ML,Linares,1588,8
 14-12-2020,7401,ML,Linares,1593,5
 15-12-2020,7401,ML,Linares,1596,3
+16-12-2020,7401,ML,Linares,1599,3
 29-03-2020,7105,ML,Maule,2,2
 30-03-2020,7105,ML,Maule,2,0
 31-03-2020,7105,ML,Maule,2,0
@@ -32965,6 +33084,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7105,ML,Maule,1227,3
 14-12-2020,7105,ML,Maule,1240,13
 15-12-2020,7105,ML,Maule,1243,3
+16-12-2020,7105,ML,Maule,1263,20
 29-03-2020,7404,ML,Parral,1,1
 30-03-2020,7404,ML,Parral,2,1
 31-03-2020,7404,ML,Parral,3,1
@@ -33227,6 +33347,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7404,ML,Parral,853,6
 14-12-2020,7404,ML,Parral,858,5
 15-12-2020,7404,ML,Parral,861,3
+16-12-2020,7404,ML,Parral,862,1
 30-03-2020,7304,ML,Molina,1,1
 31-03-2020,7304,ML,Molina,2,1
 01-04-2020,7304,ML,Molina,3,1
@@ -33488,6 +33609,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7304,ML,Molina,878,3
 14-12-2020,7304,ML,Molina,884,6
 15-12-2020,7304,ML,Molina,888,4
+16-12-2020,7304,ML,Molina,893,5
 29-03-2020,7306,ML,Romeral,2,2
 30-03-2020,7306,ML,Romeral,2,0
 31-03-2020,7306,ML,Romeral,2,0
@@ -33750,6 +33872,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7306,ML,Romeral,420,4
 14-12-2020,7306,ML,Romeral,425,5
 15-12-2020,7306,ML,Romeral,427,2
+16-12-2020,7306,ML,Romeral,434,7
 29-03-2020,7403,ML,Longaví,1,1
 30-03-2020,7403,ML,Longaví,1,0
 31-03-2020,7403,ML,Longaví,1,0
@@ -34012,6 +34135,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7403,ML,Longaví,587,2
 14-12-2020,7403,ML,Longaví,587,0
 15-12-2020,7403,ML,Longaví,590,3
+16-12-2020,7403,ML,Longaví,590,0
 29-03-2020,7108,ML,Río Claro,1,1
 30-03-2020,7108,ML,Río Claro,1,0
 31-03-2020,7108,ML,Río Claro,1,0
@@ -34274,6 +34398,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7108,ML,Río Claro,252,0
 14-12-2020,7108,ML,Río Claro,252,0
 15-12-2020,7108,ML,Río Claro,253,1
+16-12-2020,7108,ML,Río Claro,253,0
 29-03-2020,7201,ML,Cauquenes,1,1
 30-03-2020,7201,ML,Cauquenes,1,0
 31-03-2020,7201,ML,Cauquenes,1,0
@@ -34536,6 +34661,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7201,ML,Cauquenes,527,0
 14-12-2020,7201,ML,Cauquenes,528,1
 15-12-2020,7201,ML,Cauquenes,528,0
+16-12-2020,7201,ML,Cauquenes,529,1
 29-03-2020,7402,ML,Colbún,1,1
 30-03-2020,7402,ML,Colbún,1,0
 31-03-2020,7402,ML,Colbún,1,0
@@ -34798,6 +34924,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7402,ML,Colbún,400,0
 14-12-2020,7402,ML,Colbún,401,1
 15-12-2020,7402,ML,Colbún,402,1
+16-12-2020,7402,ML,Colbún,402,0
 29-03-2020,7203,ML,Pelluhue,1,1
 30-03-2020,7203,ML,Pelluhue,1,0
 31-03-2020,7203,ML,Pelluhue,1,0
@@ -35060,6 +35187,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7203,ML,Pelluhue,129,0
 14-12-2020,7203,ML,Pelluhue,129,0
 15-12-2020,7203,ML,Pelluhue,129,0
+16-12-2020,7203,ML,Pelluhue,129,0
 31-03-2020,7406,ML,San Javier,1,1
 01-04-2020,7406,ML,San Javier,1,0
 02-04-2020,7406,ML,San Javier,1,0
@@ -35320,6 +35448,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7406,ML,San Javier,1132,16
 14-12-2020,7406,ML,San Javier,1142,10
 15-12-2020,7406,ML,San Javier,1147,5
+16-12-2020,7406,ML,San Javier,1154,7
 02-04-2020,7305,ML,Rauco,1,1
 03-04-2020,7305,ML,Rauco,1,0
 04-04-2020,7305,ML,Rauco,1,0
@@ -35578,6 +35707,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7305,ML,Rauco,241,0
 14-12-2020,7305,ML,Rauco,242,1
 15-12-2020,7305,ML,Rauco,248,6
+16-12-2020,7305,ML,Rauco,248,0
 03-04-2020,7110,ML,San Rafael,1,1
 04-04-2020,7110,ML,San Rafael,1,0
 05-04-2020,7110,ML,San Rafael,1,0
@@ -35835,6 +35965,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7110,ML,San Rafael,296,0
 14-12-2020,7110,ML,San Rafael,296,0
 15-12-2020,7110,ML,San Rafael,297,1
+16-12-2020,7110,ML,San Rafael,297,0
 31-03-2020,7102,ML,Constitución,1,1
 01-04-2020,7102,ML,Constitución,1,0
 02-04-2020,7102,ML,Constitución,3,2
@@ -36095,6 +36226,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7102,ML,Constitución,649,1
 14-12-2020,7102,ML,Constitución,659,10
 15-12-2020,7102,ML,Constitución,661,2
+16-12-2020,7102,ML,Constitución,667,6
 09-04-2020,7308,ML,Teno,1,1
 10-04-2020,7308,ML,Teno,1,0
 11-04-2020,7308,ML,Teno,1,0
@@ -36346,6 +36478,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7308,ML,Teno,644,5
 14-12-2020,7308,ML,Teno,646,2
 15-12-2020,7308,ML,Teno,654,8
+16-12-2020,7308,ML,Teno,658,4
 08-04-2020,7103,ML,Curepto,2,2
 09-04-2020,7103,ML,Curepto,3,1
 10-04-2020,7103,ML,Curepto,3,0
@@ -36598,6 +36731,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7103,ML,Curepto,168,1
 14-12-2020,7103,ML,Curepto,171,3
 15-12-2020,7103,ML,Curepto,170,-1
+16-12-2020,7103,ML,Curepto,174,4
 04-04-2020,7307,ML,Sagrada Familia,1,1
 05-04-2020,7307,ML,Sagrada Familia,1,0
 06-04-2020,7307,ML,Sagrada Familia,1,0
@@ -36854,6 +36988,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7307,ML,Sagrada Familia,222,2
 14-12-2020,7307,ML,Sagrada Familia,223,1
 15-12-2020,7307,ML,Sagrada Familia,223,0
+16-12-2020,7307,ML,Sagrada Familia,224,1
 11-04-2020,7106,ML,Pelarco,1,1
 12-04-2020,7106,ML,Pelarco,3,2
 13-04-2020,7106,ML,Pelarco,3,0
@@ -37103,6 +37238,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7106,ML,Pelarco,176,0
 14-12-2020,7106,ML,Pelarco,176,0
 15-12-2020,7106,ML,Pelarco,177,1
+16-12-2020,7106,ML,Pelarco,177,0
 13-04-2020,7405,ML,Retiro,1,1
 14-04-2020,7405,ML,Retiro,1,0
 15-04-2020,7405,ML,Retiro,1,0
@@ -37350,6 +37486,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7405,ML,Retiro,358,0
 14-12-2020,7405,ML,Retiro,358,0
 15-12-2020,7405,ML,Retiro,358,0
+16-12-2020,7405,ML,Retiro,359,1
 16-04-2020,7109,ML,San Clemente,1,1
 17-04-2020,7109,ML,San Clemente,4,3
 18-04-2020,7109,ML,San Clemente,6,2
@@ -37594,6 +37731,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7109,ML,San Clemente,1112,0
 14-12-2020,7109,ML,San Clemente,1120,8
 15-12-2020,7109,ML,San Clemente,1122,2
+16-12-2020,7109,ML,San Clemente,1123,1
 16-04-2020,7303,ML,Licantén,1,1
 17-04-2020,7303,ML,Licantén,1,0
 18-04-2020,7303,ML,Licantén,2,1
@@ -37838,6 +37976,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7303,ML,Licantén,158,0
 14-12-2020,7303,ML,Licantén,159,1
 15-12-2020,7303,ML,Licantén,159,0
+16-12-2020,7303,ML,Licantén,160,1
 17-04-2020,7107,ML,Pencahue,1,1
 18-04-2020,7107,ML,Pencahue,2,1
 19-04-2020,7107,ML,Pencahue,3,1
@@ -38081,6 +38220,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7107,ML,Pencahue,153,0
 14-12-2020,7107,ML,Pencahue,154,1
 15-12-2020,7107,ML,Pencahue,154,0
+16-12-2020,7107,ML,Pencahue,154,0
 18-04-2020,7202,ML,Chanco,1,1
 19-04-2020,7202,ML,Chanco,1,0
 20-04-2020,7202,ML,Chanco,1,0
@@ -38323,6 +38463,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7202,ML,Chanco,149,2
 14-12-2020,7202,ML,Chanco,151,2
 15-12-2020,7202,ML,Chanco,154,3
+16-12-2020,7202,ML,Chanco,154,0
 18-04-2020,7408,ML,Yerbas Buenas,1,1
 19-04-2020,7408,ML,Yerbas Buenas,1,0
 20-04-2020,7408,ML,Yerbas Buenas,1,0
@@ -38565,6 +38706,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7408,ML,Yerbas Buenas,321,5
 14-12-2020,7408,ML,Yerbas Buenas,321,0
 15-12-2020,7408,ML,Yerbas Buenas,323,2
+16-12-2020,7408,ML,Yerbas Buenas,323,0
 19-04-2020,7407,ML,Villa Alegre,1,1
 20-04-2020,7407,ML,Villa Alegre,1,0
 21-04-2020,7407,ML,Villa Alegre,1,0
@@ -38806,6 +38948,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7407,ML,Villa Alegre,268,1
 14-12-2020,7407,ML,Villa Alegre,269,1
 15-12-2020,7407,ML,Villa Alegre,275,6
+16-12-2020,7407,ML,Villa Alegre,278,3
 19-05-2020,7302,ML,Hualañé,1,1
 20-05-2020,7302,ML,Hualañé,1,0
 21-05-2020,7302,ML,Hualañé,1,0
@@ -39017,6 +39160,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7302,ML,Hualañé,140,0
 14-12-2020,7302,ML,Hualañé,140,0
 15-12-2020,7302,ML,Hualañé,141,1
+16-12-2020,7302,ML,Hualañé,142,1
 03-07-2020,7309,ML,Vichuquén,1,1
 04-07-2020,7309,ML,Vichuquén,1,0
 05-07-2020,7309,ML,Vichuquén,1,0
@@ -39183,6 +39327,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7309,ML,Vichuquén,22,1
 14-12-2020,7309,ML,Vichuquén,22,0
 15-12-2020,7309,ML,Vichuquén,22,0
+16-12-2020,7309,ML,Vichuquén,22,0
 07-06-2020,7104,ML,Empedrado,1,1
 08-06-2020,7104,ML,Empedrado,1,0
 09-06-2020,7104,ML,Empedrado,1,0
@@ -39375,6 +39520,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,7104,ML,Empedrado,66,1
 14-12-2020,7104,ML,Empedrado,66,0
 15-12-2020,7104,ML,Empedrado,66,0
+16-12-2020,7104,ML,Empedrado,66,0
 12-03-2020,16101,NB,Chillán,1,1
 13-03-2020,16101,NB,Chillán,2,1
 14-03-2020,16101,NB,Chillán,4,2
@@ -39652,6 +39798,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16101,NB,Chillán,4257,33
 14-12-2020,16101,NB,Chillán,4284,27
 15-12-2020,16101,NB,Chillán,4302,18
+16-12-2020,16101,NB,Chillán,4327,25
 17-03-2020,16102,NB,Bulnes,1,1
 18-03-2020,16102,NB,Bulnes,1,0
 19-03-2020,16102,NB,Bulnes,1,0
@@ -39924,6 +40071,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16102,NB,Bulnes,700,1
 14-12-2020,16102,NB,Bulnes,702,2
 15-12-2020,16102,NB,Bulnes,708,6
+16-12-2020,16102,NB,Bulnes,709,1
 20-03-2020,16301,NB,San Carlos,2,2
 21-03-2020,16301,NB,San Carlos,3,1
 22-03-2020,16301,NB,San Carlos,3,0
@@ -40193,6 +40341,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16301,NB,San Carlos,604,1
 14-12-2020,16301,NB,San Carlos,606,2
 15-12-2020,16301,NB,San Carlos,607,1
+16-12-2020,16301,NB,San Carlos,613,6
 21-03-2020,16103,NB,Chillán Viejo,3,3
 22-03-2020,16103,NB,Chillán Viejo,5,2
 23-03-2020,16103,NB,Chillán Viejo,5,0
@@ -40461,6 +40610,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16103,NB,Chillán Viejo,636,4
 14-12-2020,16103,NB,Chillán Viejo,643,7
 15-12-2020,16103,NB,Chillán Viejo,648,5
+16-12-2020,16103,NB,Chillán Viejo,650,2
 22-03-2020,16302,NB,Coihueco,1,1
 24-03-2020,16302,NB,Coihueco,1,0
 25-03-2020,16302,NB,Coihueco,1,0
@@ -40727,6 +40877,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16302,NB,Coihueco,648,3
 14-12-2020,16302,NB,Coihueco,651,3
 15-12-2020,16302,NB,Coihueco,653,2
+16-12-2020,16302,NB,Coihueco,656,3
 24-03-2020,16107,NB,Quillón,2,2
 25-03-2020,16107,NB,Quillón,2,0
 26-03-2020,16107,NB,Quillón,3,1
@@ -40992,6 +41143,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16107,NB,Quillón,445,2
 14-12-2020,16107,NB,Quillón,448,3
 15-12-2020,16107,NB,Quillón,448,0
+16-12-2020,16107,NB,Quillón,448,0
 24-03-2020,16108,NB,San Ignacio,2,2
 25-03-2020,16108,NB,San Ignacio,2,0
 26-03-2020,16108,NB,San Ignacio,2,0
@@ -41257,6 +41409,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16108,NB,San Ignacio,243,1
 14-12-2020,16108,NB,San Ignacio,244,1
 15-12-2020,16108,NB,San Ignacio,246,2
+16-12-2020,16108,NB,San Ignacio,246,0
 28-03-2020,16305,NB,San Nicolás,1,1
 29-03-2020,16305,NB,San Nicolás,1,0
 30-03-2020,16305,NB,San Nicolás,2,1
@@ -41518,6 +41671,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16305,NB,San Nicolás,264,2
 14-12-2020,16305,NB,San Nicolás,266,2
 15-12-2020,16305,NB,San Nicolás,266,0
+16-12-2020,16305,NB,San Nicolás,266,0
 28-03-2020,16109,NB,Yungay,1,1
 29-03-2020,16109,NB,Yungay,1,0
 30-03-2020,16109,NB,Yungay,1,0
@@ -41779,6 +41933,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16109,NB,Yungay,242,1
 14-12-2020,16109,NB,Yungay,243,1
 15-12-2020,16109,NB,Yungay,243,0
+16-12-2020,16109,NB,Yungay,246,3
 28-03-2020,16104,NB,El Carmen,1,1
 29-03-2020,16104,NB,El Carmen,1,0
 30-03-2020,16104,NB,El Carmen,1,0
@@ -42040,6 +42195,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16104,NB,El Carmen,229,2
 14-12-2020,16104,NB,El Carmen,229,0
 15-12-2020,16104,NB,El Carmen,229,0
+16-12-2020,16104,NB,El Carmen,229,0
 07-04-2020,16303,NB,Ñiquén,1,1
 08-04-2020,16303,NB,Ñiquén,2,1
 09-04-2020,16303,NB,Ñiquén,2,0
@@ -42291,6 +42447,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16303,NB,Ñiquén,169,0
 14-12-2020,16303,NB,Ñiquén,169,0
 15-12-2020,16303,NB,Ñiquén,169,0
+16-12-2020,16303,NB,Ñiquén,169,0
 06-04-2020,16105,NB,Pemuco,2,2
 07-04-2020,16105,NB,Pemuco,3,1
 08-04-2020,16105,NB,Pemuco,3,0
@@ -42543,6 +42700,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16105,NB,Pemuco,146,1
 14-12-2020,16105,NB,Pemuco,146,0
 15-12-2020,16105,NB,Pemuco,146,0
+16-12-2020,16105,NB,Pemuco,146,0
 29-03-2020,16203,NB,Coelemu,1,1
 30-03-2020,16203,NB,Coelemu,1,0
 31-03-2020,16203,NB,Coelemu,1,0
@@ -42803,6 +42961,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16203,NB,Coelemu,189,0
 14-12-2020,16203,NB,Coelemu,189,0
 15-12-2020,16203,NB,Coelemu,189,0
+16-12-2020,16203,NB,Coelemu,189,0
 27-03-2020,16106,NB,Pinto,1,1
 28-03-2020,16106,NB,Pinto,1,0
 29-03-2020,16106,NB,Pinto,1,0
@@ -43065,6 +43224,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16106,NB,Pinto,139,0
 14-12-2020,16106,NB,Pinto,139,0
 15-12-2020,16106,NB,Pinto,139,0
+16-12-2020,16106,NB,Pinto,139,0
 06-04-2020,16201,NB,Quirihue,1,1
 07-04-2020,16201,NB,Quirihue,3,2
 08-04-2020,16201,NB,Quirihue,3,0
@@ -43317,6 +43477,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16201,NB,Quirihue,189,0
 14-12-2020,16201,NB,Quirihue,189,0
 15-12-2020,16201,NB,Quirihue,189,0
+16-12-2020,16201,NB,Quirihue,189,0
 07-04-2020,16204,NB,Ninhue,1,1
 08-04-2020,16204,NB,Ninhue,2,1
 09-04-2020,16204,NB,Ninhue,2,0
@@ -43568,6 +43729,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16204,NB,Ninhue,75,9
 14-12-2020,16204,NB,Ninhue,81,6
 15-12-2020,16204,NB,Ninhue,82,1
+16-12-2020,16204,NB,Ninhue,83,1
 26-03-2020,16206,NB,Ránquil,1,1
 27-03-2020,16206,NB,Ránquil,1,0
 28-03-2020,16206,NB,Ránquil,1,0
@@ -43831,6 +43993,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16206,NB,Ránquil,101,0
 14-12-2020,16206,NB,Ránquil,102,1
 15-12-2020,16206,NB,Ránquil,102,0
+16-12-2020,16206,NB,Ránquil,102,0
 14-05-2020,16205,NB,Portezuelo,1,1
 15-05-2020,16205,NB,Portezuelo,2,1
 16-05-2020,16205,NB,Portezuelo,2,0
@@ -44045,6 +44208,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16205,NB,Portezuelo,47,1
 14-12-2020,16205,NB,Portezuelo,49,2
 15-12-2020,16205,NB,Portezuelo,49,0
+16-12-2020,16205,NB,Portezuelo,49,0
 20-03-2020,16304,NB,San Fabián,1,1
 21-03-2020,16304,NB,San Fabián,1,0
 22-03-2020,16304,NB,San Fabián,1,0
@@ -44314,6 +44478,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16304,NB,San Fabián,41,0
 14-12-2020,16304,NB,San Fabián,41,0
 15-12-2020,16304,NB,San Fabián,41,0
+16-12-2020,16304,NB,San Fabián,41,0
 27-05-2020,16207,NB,Treguaco,1,1
 28-05-2020,16207,NB,Treguaco,1,0
 29-05-2020,16207,NB,Treguaco,1,0
@@ -44516,6 +44681,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16207,NB,Treguaco,76,0
 14-12-2020,16207,NB,Treguaco,76,0
 15-12-2020,16207,NB,Treguaco,76,0
+16-12-2020,16207,NB,Treguaco,77,1
 11-07-2020,16202,NB,Cobquecura,1,1
 12-07-2020,16202,NB,Cobquecura,1,0
 13-07-2020,16202,NB,Cobquecura,1,0
@@ -44673,6 +44839,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,16202,NB,Cobquecura,43,0
 14-12-2020,16202,NB,Cobquecura,45,2
 15-12-2020,16202,NB,Cobquecura,45,0
+16-12-2020,16202,NB,Cobquecura,45,0
 16-03-2020,8101,BI,Concepción,1,1
 17-03-2020,8101,BI,Concepción,1,0
 18-03-2020,8101,BI,Concepción,1,0
@@ -44946,6 +45113,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8101,BI,Concepción,6148,62
 14-12-2020,8101,BI,Concepción,6217,69
 15-12-2020,8101,BI,Concepción,6240,23
+16-12-2020,8101,BI,Concepción,6274,34
 20-03-2020,8301,BI,Los Ángeles,1,1
 21-03-2020,8301,BI,Los Ángeles,1,0
 22-03-2020,8301,BI,Los Ángeles,1,0
@@ -45215,6 +45383,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8301,BI,Los Ángeles,3910,42
 14-12-2020,8301,BI,Los Ángeles,3977,67
 15-12-2020,8301,BI,Los Ángeles,4029,52
+16-12-2020,8301,BI,Los Ángeles,4093,64
 16-03-2020,8102,BI,Coronel,1,1
 17-03-2020,8102,BI,Coronel,1,0
 18-03-2020,8102,BI,Coronel,1,0
@@ -45488,6 +45657,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8102,BI,Coronel,3755,40
 14-12-2020,8102,BI,Coronel,3782,27
 15-12-2020,8102,BI,Coronel,3808,26
+16-12-2020,8102,BI,Coronel,3827,19
 18-03-2020,8110,BI,Talcahuano,1,1
 19-03-2020,8110,BI,Talcahuano,3,2
 20-03-2020,8110,BI,Talcahuano,3,0
@@ -45759,6 +45929,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8110,BI,Talcahuano,3814,40
 14-12-2020,8110,BI,Talcahuano,3844,30
 15-12-2020,8110,BI,Talcahuano,3864,20
+16-12-2020,8110,BI,Talcahuano,3886,22
 18-03-2020,8108,BI,San Pedro de La Paz,2,2
 19-03-2020,8108,BI,San Pedro de La Paz,2,0
 20-03-2020,8108,BI,San Pedro de La Paz,3,1
@@ -46030,6 +46201,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8108,BI,San Pedro de La Paz,3219,25
 14-12-2020,8108,BI,San Pedro de La Paz,3250,31
 15-12-2020,8108,BI,San Pedro de La Paz,3272,22
+16-12-2020,8108,BI,San Pedro de La Paz,3293,21
 23-03-2020,8112,BI,Hualpén,1,1
 24-03-2020,8112,BI,Hualpén,3,2
 25-03-2020,8112,BI,Hualpén,6,3
@@ -46296,6 +46468,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8112,BI,Hualpén,2602,16
 14-12-2020,8112,BI,Hualpén,2614,12
 15-12-2020,8112,BI,Hualpén,2622,8
+16-12-2020,8112,BI,Hualpén,2645,23
 19-03-2020,8111,BI,Tomé,3,3
 20-03-2020,8111,BI,Tomé,3,0
 21-03-2020,8111,BI,Tomé,3,0
@@ -46566,6 +46739,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8111,BI,Tomé,1678,4
 14-12-2020,8111,BI,Tomé,1696,18
 15-12-2020,8111,BI,Tomé,1705,9
+16-12-2020,8111,BI,Tomé,1709,4
 14-03-2020,8103,BI,Chiguayante,1,1
 15-03-2020,8103,BI,Chiguayante,1,0
 16-03-2020,8103,BI,Chiguayante,1,0
@@ -46841,6 +47015,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8103,BI,Chiguayante,2378,15
 14-12-2020,8103,BI,Chiguayante,2389,11
 15-12-2020,8103,BI,Chiguayante,2397,8
+16-12-2020,8103,BI,Chiguayante,2411,14
 01-04-2020,8107,BI,Penco,1,1
 02-04-2020,8107,BI,Penco,2,1
 03-04-2020,8107,BI,Penco,3,1
@@ -47098,6 +47273,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8107,BI,Penco,1208,16
 14-12-2020,8107,BI,Penco,1219,11
 15-12-2020,8107,BI,Penco,1222,3
+16-12-2020,8107,BI,Penco,1235,13
 22-05-2020,8314,BI,Alto Biobío,1,1
 23-05-2020,8314,BI,Alto Biobío,4,3
 24-05-2020,8314,BI,Alto Biobío,11,7
@@ -47305,6 +47481,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8314,BI,Alto Biobío,205,7
 14-12-2020,8314,BI,Alto Biobío,212,7
 15-12-2020,8314,BI,Alto Biobío,213,1
+16-12-2020,8314,BI,Alto Biobío,214,1
 21-03-2020,8106,BI,Lota,1,1
 22-03-2020,8106,BI,Lota,1,0
 23-03-2020,8106,BI,Lota,1,0
@@ -47573,6 +47750,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8106,BI,Lota,1522,10
 14-12-2020,8106,BI,Lota,1550,28
 15-12-2020,8106,BI,Lota,1555,5
+16-12-2020,8106,BI,Lota,1564,9
 20-03-2020,8202,BI,Arauco,1,1
 21-03-2020,8202,BI,Arauco,1,0
 22-03-2020,8202,BI,Arauco,1,0
@@ -47842,6 +48020,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8202,BI,Arauco,1274,14
 14-12-2020,8202,BI,Arauco,1286,12
 15-12-2020,8202,BI,Arauco,1295,9
+16-12-2020,8202,BI,Arauco,1300,5
 24-03-2020,8105,BI,Hualqui,1,1
 25-03-2020,8105,BI,Hualqui,2,1
 26-03-2020,8105,BI,Hualqui,2,0
@@ -48107,6 +48286,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8105,BI,Hualqui,671,4
 14-12-2020,8105,BI,Hualqui,681,10
 15-12-2020,8105,BI,Hualqui,683,2
+16-12-2020,8105,BI,Hualqui,685,2
 02-04-2020,8303,BI,Cabrero,1,1
 03-04-2020,8303,BI,Cabrero,1,0
 04-04-2020,8303,BI,Cabrero,1,0
@@ -48363,6 +48543,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8303,BI,Cabrero,641,7
 14-12-2020,8303,BI,Cabrero,642,1
 15-12-2020,8303,BI,Cabrero,647,5
+16-12-2020,8303,BI,Cabrero,649,2
 09-03-2020,8304,BI,Laja,1,1
 10-03-2020,8304,BI,Laja,1,0
 11-03-2020,8304,BI,Laja,1,0
@@ -48643,6 +48824,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8304,BI,Laja,437,5
 14-12-2020,8304,BI,Laja,437,0
 15-12-2020,8304,BI,Laja,441,4
+16-12-2020,8304,BI,Laja,443,2
 21-03-2020,8306,BI,Nacimiento,1,1
 22-03-2020,8306,BI,Nacimiento,1,0
 23-03-2020,8306,BI,Nacimiento,1,0
@@ -48911,6 +49093,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8306,BI,Nacimiento,552,6
 14-12-2020,8306,BI,Nacimiento,558,6
 15-12-2020,8306,BI,Nacimiento,560,2
+16-12-2020,8306,BI,Nacimiento,564,4
 26-03-2020,8313,BI,Yumbel,3,3
 27-03-2020,8313,BI,Yumbel,4,1
 28-03-2020,8313,BI,Yumbel,4,0
@@ -49174,6 +49357,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8313,BI,Yumbel,602,19
 14-12-2020,8313,BI,Yumbel,604,2
 15-12-2020,8313,BI,Yumbel,605,1
+16-12-2020,8313,BI,Yumbel,606,1
 06-04-2020,8307,BI,Negrete,1,1
 07-04-2020,8307,BI,Negrete,2,1
 08-04-2020,8307,BI,Negrete,2,0
@@ -49426,6 +49610,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8307,BI,Negrete,305,2
 14-12-2020,8307,BI,Negrete,313,8
 15-12-2020,8307,BI,Negrete,315,2
+16-12-2020,8307,BI,Negrete,315,0
 29-03-2020,8311,BI,Santa Bárbara,2,2
 30-03-2020,8311,BI,Santa Bárbara,2,0
 31-03-2020,8311,BI,Santa Bárbara,2,0
@@ -49686,6 +49871,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8311,BI,Santa Bárbara,257,2
 14-12-2020,8311,BI,Santa Bárbara,257,0
 15-12-2020,8311,BI,Santa Bárbara,257,0
+16-12-2020,8311,BI,Santa Bárbara,258,1
 07-04-2020,8312,BI,Tucapel,1,1
 08-04-2020,8312,BI,Tucapel,1,0
 09-04-2020,8312,BI,Tucapel,1,0
@@ -49937,6 +50123,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8312,BI,Tucapel,249,0
 14-12-2020,8312,BI,Tucapel,249,0
 15-12-2020,8312,BI,Tucapel,249,0
+16-12-2020,8312,BI,Tucapel,249,0
 28-03-2020,8205,BI,Curanilahue,1,1
 29-03-2020,8205,BI,Curanilahue,1,0
 30-03-2020,8205,BI,Curanilahue,1,0
@@ -50198,6 +50385,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8205,BI,Curanilahue,1114,13
 14-12-2020,8205,BI,Curanilahue,1125,11
 15-12-2020,8205,BI,Curanilahue,1130,5
+16-12-2020,8205,BI,Curanilahue,1136,6
 19-04-2020,8109,BI,Santa Juana,1,1
 20-04-2020,8109,BI,Santa Juana,1,0
 21-04-2020,8109,BI,Santa Juana,1,0
@@ -50437,6 +50625,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8109,BI,Santa Juana,259,1
 14-12-2020,8109,BI,Santa Juana,260,1
 15-12-2020,8109,BI,Santa Juana,260,0
+16-12-2020,8109,BI,Santa Juana,262,2
 26-03-2020,8305,BI,Mulchén,1,1
 27-03-2020,8305,BI,Mulchén,1,0
 28-03-2020,8305,BI,Mulchén,1,0
@@ -50700,6 +50889,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8305,BI,Mulchén,538,1
 14-12-2020,8305,BI,Mulchén,539,1
 15-12-2020,8305,BI,Mulchén,540,1
+16-12-2020,8305,BI,Mulchén,544,4
 22-04-2020,8206,BI,Los Álamos,1,1
 23-04-2020,8206,BI,Los Álamos,1,0
 24-04-2020,8206,BI,Los Álamos,1,0
@@ -50936,6 +51126,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8206,BI,Los Álamos,464,2
 14-12-2020,8206,BI,Los Álamos,467,3
 15-12-2020,8206,BI,Los Álamos,468,1
+16-12-2020,8206,BI,Los Álamos,469,1
 07-05-2020,8302,BI,Antuco,1,1
 08-05-2020,8302,BI,Antuco,1,0
 09-05-2020,8302,BI,Antuco,2,1
@@ -51158,6 +51349,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8302,BI,Antuco,90,0
 14-12-2020,8302,BI,Antuco,90,0
 15-12-2020,8302,BI,Antuco,90,0
+16-12-2020,8302,BI,Antuco,90,0
 08-05-2020,8203,BI,Cañete,1,1
 22-05-2020,8203,BI,Cañete,3,2
 23-05-2020,8203,BI,Cañete,4,1
@@ -51366,6 +51558,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8203,BI,Cañete,993,9
 14-12-2020,8203,BI,Cañete,1011,18
 15-12-2020,8203,BI,Cañete,1014,3
+16-12-2020,8203,BI,Cañete,1014,0
 09-05-2020,8201,BI,Lebu,1,1
 10-05-2020,8201,BI,Lebu,2,1
 11-05-2020,8201,BI,Lebu,2,0
@@ -51586,6 +51779,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8201,BI,Lebu,499,4
 14-12-2020,8201,BI,Lebu,501,2
 15-12-2020,8201,BI,Lebu,505,4
+16-12-2020,8201,BI,Lebu,505,0
 26-03-2020,8104,BI,Florida,2,2
 27-03-2020,8104,BI,Florida,5,3
 28-03-2020,8104,BI,Florida,2,-3
@@ -51849,6 +52043,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8104,BI,Florida,236,1
 14-12-2020,8104,BI,Florida,241,5
 15-12-2020,8104,BI,Florida,242,1
+16-12-2020,8104,BI,Florida,243,1
 02-04-2020,8207,BI,Tirúa,2,2
 03-04-2020,8207,BI,Tirúa,2,0
 04-04-2020,8207,BI,Tirúa,2,0
@@ -52105,6 +52300,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8207,BI,Tirúa,173,28
 14-12-2020,8207,BI,Tirúa,173,0
 15-12-2020,8207,BI,Tirúa,189,16
+16-12-2020,8207,BI,Tirúa,197,8
 18-05-2020,8310,BI,San Rosendo,2,2
 19-05-2020,8310,BI,San Rosendo,2,0
 20-05-2020,8310,BI,San Rosendo,2,0
@@ -52316,6 +52512,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8310,BI,San Rosendo,57,1
 14-12-2020,8310,BI,San Rosendo,58,1
 15-12-2020,8310,BI,San Rosendo,58,0
+16-12-2020,8310,BI,San Rosendo,62,4
 24-05-2020,8309,BI,Quilleco,1,1
 25-05-2020,8309,BI,Quilleco,1,0
 26-05-2020,8309,BI,Quilleco,1,0
@@ -52521,6 +52718,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8309,BI,Quilleco,125,0
 14-12-2020,8309,BI,Quilleco,125,0
 15-12-2020,8309,BI,Quilleco,126,1
+16-12-2020,8309,BI,Quilleco,125,-1
 04-06-2020,8308,BI,Quilaco,1,1
 05-06-2020,8308,BI,Quilaco,1,0
 06-06-2020,8308,BI,Quilaco,2,1
@@ -52715,6 +52913,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8308,BI,Quilaco,67,1
 14-12-2020,8308,BI,Quilaco,69,2
 15-12-2020,8308,BI,Quilaco,69,0
+16-12-2020,8308,BI,Quilaco,73,4
 04-06-2020,8204,BI,Contulmo,1,1
 05-06-2020,8204,BI,Contulmo,1,0
 06-06-2020,8204,BI,Contulmo,1,0
@@ -52909,6 +53108,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,8204,BI,Contulmo,79,1
 14-12-2020,8204,BI,Contulmo,79,0
 15-12-2020,8204,BI,Contulmo,79,0
+16-12-2020,8204,BI,Contulmo,79,0
 23-03-2020,9201,AR,Angol,3,3
 24-03-2020,9201,AR,Angol,3,0
 25-03-2020,9201,AR,Angol,4,1
@@ -53177,6 +53377,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9201,AR,Angol,1447,68
 14-12-2020,9201,AR,Angol,1457,10
 15-12-2020,9201,AR,Angol,1491,34
+16-12-2020,9201,AR,Angol,1512,21
 31-03-2020,9102,AR,Carahue,1,1
 01-04-2020,9102,AR,Carahue,1,0
 02-04-2020,9102,AR,Carahue,2,1
@@ -53437,6 +53638,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9102,AR,Carahue,682,2
 14-12-2020,9102,AR,Carahue,683,1
 15-12-2020,9102,AR,Carahue,684,1
+16-12-2020,9102,AR,Carahue,684,0
 27-03-2020,9121,AR,Cholchol,2,2
 28-03-2020,9121,AR,Cholchol,2,0
 29-03-2020,9121,AR,Cholchol,2,0
@@ -53701,6 +53903,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9121,AR,Cholchol,303,9
 14-12-2020,9121,AR,Cholchol,305,2
 15-12-2020,9121,AR,Cholchol,307,2
+16-12-2020,9121,AR,Cholchol,307,0
 18-04-2020,9202,AR,Collipulli,1,1
 19-04-2020,9202,AR,Collipulli,2,1
 20-04-2020,9202,AR,Collipulli,2,0
@@ -53943,6 +54146,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9202,AR,Collipulli,634,2
 14-12-2020,9202,AR,Collipulli,636,2
 15-12-2020,9202,AR,Collipulli,639,3
+16-12-2020,9202,AR,Collipulli,645,6
 03-04-2020,9103,AR,Cunco,1,1
 04-04-2020,9103,AR,Cunco,1,0
 05-04-2020,9103,AR,Cunco,1,0
@@ -54200,6 +54404,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9103,AR,Cunco,303,1
 14-12-2020,9103,AR,Cunco,305,2
 15-12-2020,9103,AR,Cunco,305,0
+16-12-2020,9103,AR,Cunco,305,0
 05-04-2020,9203,AR,Curacautín,2,2
 06-04-2020,9203,AR,Curacautín,3,1
 07-04-2020,9203,AR,Curacautín,3,0
@@ -54455,6 +54660,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9203,AR,Curacautín,142,1
 14-12-2020,9203,AR,Curacautín,142,0
 15-12-2020,9203,AR,Curacautín,142,0
+16-12-2020,9203,AR,Curacautín,145,3
 22-03-2020,9104,AR,Curarrehue,1,1
 23-03-2020,9104,AR,Curarrehue,1,0
 24-03-2020,9104,AR,Curarrehue,1,0
@@ -54724,6 +54930,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9104,AR,Curarrehue,119,0
 14-12-2020,9104,AR,Curarrehue,119,0
 15-12-2020,9104,AR,Curarrehue,124,5
+16-12-2020,9104,AR,Curarrehue,124,0
 07-04-2020,9204,AR,Ercilla,2,2
 08-04-2020,9204,AR,Ercilla,3,1
 09-04-2020,9204,AR,Ercilla,4,1
@@ -54977,6 +55184,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9204,AR,Ercilla,305,2
 14-12-2020,9204,AR,Ercilla,305,0
 15-12-2020,9204,AR,Ercilla,307,2
+16-12-2020,9204,AR,Ercilla,308,1
 28-03-2020,9105,AR,Freire,2,2
 29-03-2020,9105,AR,Freire,2,0
 30-03-2020,9105,AR,Freire,2,0
@@ -55240,6 +55448,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9105,AR,Freire,476,5
 14-12-2020,9105,AR,Freire,476,0
 15-12-2020,9105,AR,Freire,476,0
+16-12-2020,9105,AR,Freire,476,0
 29-03-2020,9106,AR,Galvarino,1,1
 30-03-2020,9106,AR,Galvarino,1,0
 31-03-2020,9106,AR,Galvarino,1,0
@@ -55502,6 +55711,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9106,AR,Galvarino,485,8
 14-12-2020,9106,AR,Galvarino,490,5
 15-12-2020,9106,AR,Galvarino,496,6
+16-12-2020,9106,AR,Galvarino,496,0
 22-03-2020,9107,AR,Gorbea,1,1
 23-03-2020,9107,AR,Gorbea,1,0
 24-03-2020,9107,AR,Gorbea,2,1
@@ -55771,6 +55981,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9107,AR,Gorbea,215,3
 14-12-2020,9107,AR,Gorbea,222,7
 15-12-2020,9107,AR,Gorbea,224,2
+16-12-2020,9107,AR,Gorbea,227,3
 23-03-2020,9108,AR,Lautaro,4,4
 24-03-2020,9108,AR,Lautaro,4,0
 25-03-2020,9108,AR,Lautaro,3,-1
@@ -56039,6 +56250,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9108,AR,Lautaro,912,18
 14-12-2020,9108,AR,Lautaro,915,3
 15-12-2020,9108,AR,Lautaro,929,14
+16-12-2020,9108,AR,Lautaro,933,4
 29-03-2020,9109,AR,Loncoche,2,2
 30-03-2020,9109,AR,Loncoche,4,2
 31-03-2020,9109,AR,Loncoche,4,0
@@ -56301,6 +56513,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9109,AR,Loncoche,340,7
 14-12-2020,9109,AR,Loncoche,340,0
 15-12-2020,9109,AR,Loncoche,343,3
+16-12-2020,9109,AR,Loncoche,345,2
 07-05-2020,9205,AR,Lonquimay,3,3
 08-05-2020,9205,AR,Lonquimay,4,1
 09-05-2020,9205,AR,Lonquimay,4,0
@@ -56524,6 +56737,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9205,AR,Lonquimay,200,1
 14-12-2020,9205,AR,Lonquimay,201,1
 15-12-2020,9205,AR,Lonquimay,201,0
+16-12-2020,9205,AR,Lonquimay,201,0
 27-04-2020,9206,AR,Los Sauces,1,1
 28-04-2020,9206,AR,Los Sauces,1,0
 29-04-2020,9206,AR,Los Sauces,1,0
@@ -56757,6 +56971,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9206,AR,Los Sauces,215,1
 14-12-2020,9206,AR,Los Sauces,215,0
 15-12-2020,9206,AR,Los Sauces,215,0
+16-12-2020,9206,AR,Los Sauces,215,0
 25-04-2020,9207,AR,Lumaco,1,1
 26-04-2020,9207,AR,Lumaco,1,0
 27-04-2020,9207,AR,Lumaco,2,1
@@ -56992,6 +57207,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9207,AR,Lumaco,171,2
 14-12-2020,9207,AR,Lumaco,177,6
 15-12-2020,9207,AR,Lumaco,203,26
+16-12-2020,9207,AR,Lumaco,204,1
 25-05-2020,9110,AR,Melipeuco,3,3
 26-05-2020,9110,AR,Melipeuco,4,1
 27-05-2020,9110,AR,Melipeuco,5,1
@@ -57197,6 +57413,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9110,AR,Melipeuco,81,0
 14-12-2020,9110,AR,Melipeuco,81,0
 15-12-2020,9110,AR,Melipeuco,81,0
+16-12-2020,9110,AR,Melipeuco,81,0
 27-03-2020,9111,AR,Nueva Imperial,1,1
 28-03-2020,9111,AR,Nueva Imperial,1,0
 29-03-2020,9111,AR,Nueva Imperial,2,1
@@ -57461,6 +57678,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9111,AR,Nueva Imperial,504,1
 14-12-2020,9111,AR,Nueva Imperial,507,3
 15-12-2020,9111,AR,Nueva Imperial,512,5
+16-12-2020,9111,AR,Nueva Imperial,518,6
 23-03-2020,9112,AR,Padre Las Casas,3,3
 24-03-2020,9112,AR,Padre Las Casas,3,0
 25-03-2020,9112,AR,Padre Las Casas,5,2
@@ -57729,6 +57947,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9112,AR,Padre Las Casas,1421,24
 14-12-2020,9112,AR,Padre Las Casas,1427,6
 15-12-2020,9112,AR,Padre Las Casas,1447,20
+16-12-2020,9112,AR,Padre Las Casas,1450,3
 26-03-2020,9113,AR,Perquenco,1,1
 27-03-2020,9113,AR,Perquenco,1,0
 28-03-2020,9113,AR,Perquenco,1,0
@@ -57994,6 +58213,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9113,AR,Perquenco,257,3
 14-12-2020,9113,AR,Perquenco,259,2
 15-12-2020,9113,AR,Perquenco,259,0
+16-12-2020,9113,AR,Perquenco,263,4
 28-03-2020,9114,AR,Pitrufquén,3,3
 29-03-2020,9114,AR,Pitrufquén,4,1
 30-03-2020,9114,AR,Pitrufquén,5,1
@@ -58257,6 +58477,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9114,AR,Pitrufquén,317,7
 14-12-2020,9114,AR,Pitrufquén,317,0
 15-12-2020,9114,AR,Pitrufquén,323,6
+16-12-2020,9114,AR,Pitrufquén,323,0
 23-03-2020,9115,AR,Pucón,2,2
 24-03-2020,9115,AR,Pucón,2,0
 25-03-2020,9115,AR,Pucón,2,0
@@ -58525,6 +58746,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9115,AR,Pucón,318,7
 14-12-2020,9115,AR,Pucón,318,0
 15-12-2020,9115,AR,Pucón,325,7
+16-12-2020,9115,AR,Pucón,327,2
 31-03-2020,9208,AR,Purén,1,1
 01-04-2020,9208,AR,Purén,1,0
 02-04-2020,9208,AR,Purén,1,0
@@ -58785,6 +59007,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9208,AR,Purén,130,2
 14-12-2020,9208,AR,Purén,130,0
 15-12-2020,9208,AR,Purén,131,1
+16-12-2020,9208,AR,Purén,133,2
 07-04-2020,9209,AR,Renaico,1,1
 08-04-2020,9209,AR,Renaico,1,0
 09-04-2020,9209,AR,Renaico,1,0
@@ -59038,6 +59261,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9209,AR,Renaico,241,4
 14-12-2020,9209,AR,Renaico,242,1
 15-12-2020,9209,AR,Renaico,243,1
+16-12-2020,9209,AR,Renaico,243,0
 28-03-2020,9116,AR,Saavedra,1,1
 29-03-2020,9116,AR,Saavedra,1,0
 30-03-2020,9116,AR,Saavedra,1,0
@@ -59301,6 +59525,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9116,AR,Saavedra,299,1
 14-12-2020,9116,AR,Saavedra,300,1
 15-12-2020,9116,AR,Saavedra,301,1
+16-12-2020,9116,AR,Saavedra,305,4
 23-03-2020,9101,AR,Temuco,41,41
 24-03-2020,9101,AR,Temuco,47,6
 25-03-2020,9101,AR,Temuco,57,10
@@ -59569,6 +59794,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9101,AR,Temuco,6389,58
 14-12-2020,9101,AR,Temuco,6436,47
 15-12-2020,9101,AR,Temuco,6459,23
+16-12-2020,9101,AR,Temuco,6484,25
 30-03-2020,9117,AR,Teodoro Schmidt,1,1
 31-03-2020,9117,AR,Teodoro Schmidt,2,1
 01-04-2020,9117,AR,Teodoro Schmidt,3,1
@@ -59830,6 +60056,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9117,AR,Teodoro Schmidt,284,0
 14-12-2020,9117,AR,Teodoro Schmidt,284,0
 15-12-2020,9117,AR,Teodoro Schmidt,284,0
+16-12-2020,9117,AR,Teodoro Schmidt,284,0
 29-03-2020,9118,AR,Toltén,1,1
 30-03-2020,9118,AR,Toltén,1,0
 31-03-2020,9118,AR,Toltén,4,3
@@ -60092,6 +60319,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9118,AR,Toltén,131,1
 14-12-2020,9118,AR,Toltén,131,0
 15-12-2020,9118,AR,Toltén,131,0
+16-12-2020,9118,AR,Toltén,131,0
 12-04-2020,9210,AR,Traiguén,1,1
 13-04-2020,9210,AR,Traiguén,1,0
 14-04-2020,9210,AR,Traiguén,1,0
@@ -60340,6 +60568,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9210,AR,Traiguén,219,7
 14-12-2020,9210,AR,Traiguén,221,2
 15-12-2020,9210,AR,Traiguén,225,4
+16-12-2020,9210,AR,Traiguén,225,0
 23-03-2020,9211,AR,Victoria,3,3
 24-03-2020,9211,AR,Victoria,3,0
 25-03-2020,9211,AR,Victoria,4,1
@@ -60608,6 +60837,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9211,AR,Victoria,557,6
 14-12-2020,9211,AR,Victoria,557,0
 15-12-2020,9211,AR,Victoria,559,2
+16-12-2020,9211,AR,Victoria,562,3
 25-03-2020,9119,AR,Vilcún,1,1
 26-03-2020,9119,AR,Vilcún,2,1
 27-03-2020,9119,AR,Vilcún,2,0
@@ -60874,6 +61104,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9119,AR,Vilcún,518,16
 14-12-2020,9119,AR,Vilcún,519,1
 15-12-2020,9119,AR,Vilcún,520,1
+16-12-2020,9119,AR,Vilcún,520,0
 30-03-2020,9120,AR,Villarrica,1,1
 31-03-2020,9120,AR,Villarrica,2,1
 01-04-2020,9120,AR,Villarrica,3,1
@@ -61135,6 +61366,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,9120,AR,Villarrica,955,0
 14-12-2020,9120,AR,Villarrica,957,2
 15-12-2020,9120,AR,Villarrica,971,14
+16-12-2020,9120,AR,Villarrica,988,17
 15-04-2020,14102,LR,Corral,1,1
 16-04-2020,14102,LR,Corral,1,0
 17-04-2020,14102,LR,Corral,1,0
@@ -61380,6 +61612,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14102,LR,Corral,95,0
 14-12-2020,14102,LR,Corral,95,0
 15-12-2020,14102,LR,Corral,95,0
+16-12-2020,14102,LR,Corral,95,0
 31-03-2020,14103,LR,Lanco,1,1
 01-04-2020,14103,LR,Lanco,1,0
 02-04-2020,14103,LR,Lanco,1,0
@@ -61640,6 +61873,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14103,LR,Lanco,342,14
 14-12-2020,14103,LR,Lanco,351,9
 15-12-2020,14103,LR,Lanco,354,3
+16-12-2020,14103,LR,Lanco,355,1
 23-05-2020,14104,LR,Los Lagos,2,2
 24-05-2020,14104,LR,Los Lagos,2,0
 25-05-2020,14104,LR,Los Lagos,3,1
@@ -61847,6 +62081,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14104,LR,Los Lagos,335,1
 14-12-2020,14104,LR,Los Lagos,340,5
 15-12-2020,14104,LR,Los Lagos,340,0
+16-12-2020,14104,LR,Los Lagos,342,2
 25-03-2020,14105,LR,Máfil,1,1
 26-03-2020,14105,LR,Máfil,1,0
 27-03-2020,14105,LR,Máfil,1,0
@@ -62113,6 +62348,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14105,LR,Máfil,89,0
 14-12-2020,14105,LR,Máfil,90,1
 15-12-2020,14105,LR,Máfil,90,0
+16-12-2020,14105,LR,Máfil,90,0
 29-03-2020,14106,LR,Mariquina,1,1
 30-03-2020,14106,LR,Mariquina,1,0
 31-03-2020,14106,LR,Mariquina,2,1
@@ -62375,6 +62611,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14106,LR,Mariquina,234,9
 14-12-2020,14106,LR,Mariquina,244,10
 15-12-2020,14106,LR,Mariquina,247,3
+16-12-2020,14106,LR,Mariquina,251,4
 31-03-2020,14107,LR,Paillaco,1,1
 01-04-2020,14107,LR,Paillaco,1,0
 02-04-2020,14107,LR,Paillaco,1,0
@@ -62635,6 +62872,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14107,LR,Paillaco,326,6
 14-12-2020,14107,LR,Paillaco,329,3
 15-12-2020,14107,LR,Paillaco,329,0
+16-12-2020,14107,LR,Paillaco,329,0
 18-05-2020,14108,LR,Panguipulli,1,1
 19-05-2020,14108,LR,Panguipulli,3,2
 20-05-2020,14108,LR,Panguipulli,3,0
@@ -62847,6 +63085,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14108,LR,Panguipulli,522,0
 14-12-2020,14108,LR,Panguipulli,523,1
 15-12-2020,14108,LR,Panguipulli,531,8
+16-12-2020,14108,LR,Panguipulli,533,2
 16-03-2020,14101,LR,Valdivia,1,1
 17-03-2020,14101,LR,Valdivia,1,0
 18-03-2020,14101,LR,Valdivia,1,0
@@ -63122,6 +63361,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14101,LR,Valdivia,3609,76
 14-12-2020,14101,LR,Valdivia,3665,56
 15-12-2020,14101,LR,Valdivia,3701,36
+16-12-2020,14101,LR,Valdivia,3742,41
 25-03-2020,14202,LR,Futrono,1,1
 26-03-2020,14202,LR,Futrono,1,0
 27-03-2020,14202,LR,Futrono,1,0
@@ -63388,6 +63628,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14202,LR,Futrono,272,1
 14-12-2020,14202,LR,Futrono,272,0
 15-12-2020,14202,LR,Futrono,273,1
+16-12-2020,14202,LR,Futrono,273,0
 23-03-2020,14201,LR,La Unión,1,1
 24-03-2020,14201,LR,La Unión,1,0
 25-03-2020,14201,LR,La Unión,1,0
@@ -63656,6 +63897,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14201,LR,La Unión,715,7
 14-12-2020,14201,LR,La Unión,722,7
 15-12-2020,14201,LR,La Unión,735,13
+16-12-2020,14201,LR,La Unión,743,8
 27-03-2020,14203,LR,Lago Ranco,1,1
 28-03-2020,14203,LR,Lago Ranco,1,0
 29-03-2020,14203,LR,Lago Ranco,1,0
@@ -63920,6 +64162,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14203,LR,Lago Ranco,202,0
 14-12-2020,14203,LR,Lago Ranco,203,1
 15-12-2020,14203,LR,Lago Ranco,206,3
+16-12-2020,14203,LR,Lago Ranco,207,1
 25-03-2020,14204,LR,Río Bueno,1,1
 26-03-2020,14204,LR,Río Bueno,1,0
 27-03-2020,14204,LR,Río Bueno,1,0
@@ -64186,6 +64429,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,14204,LR,Río Bueno,529,12
 14-12-2020,14204,LR,Río Bueno,536,7
 15-12-2020,14204,LR,Río Bueno,536,0
+16-12-2020,14204,LR,Río Bueno,544,8
 07-03-2020,10101,LL,Puerto Montt,1,1
 08-03-2020,10101,LL,Puerto Montt,1,0
 09-03-2020,10101,LL,Puerto Montt,1,0
@@ -64470,6 +64714,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10101,LL,Puerto Montt,7909,56
 14-12-2020,10101,LL,Puerto Montt,7950,41
 15-12-2020,10101,LL,Puerto Montt,7974,24
+16-12-2020,10101,LL,Puerto Montt,8013,39
 21-03-2020,10102,LL,Calbuco,1,1
 22-03-2020,10102,LL,Calbuco,2,1
 23-03-2020,10102,LL,Calbuco,2,0
@@ -64740,6 +64985,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10102,LL,Calbuco,1129,15
 14-12-2020,10102,LL,Calbuco,1131,2
 15-12-2020,10102,LL,Calbuco,1141,10
+16-12-2020,10102,LL,Calbuco,1142,1
 25-06-2020,10103,LL,Cochamó,1,1
 26-06-2020,10103,LL,Cochamó,1,0
 27-06-2020,10103,LL,Cochamó,1,0
@@ -64914,6 +65160,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10103,LL,Cochamó,46,2
 14-12-2020,10103,LL,Cochamó,46,0
 15-12-2020,10103,LL,Cochamó,46,0
+16-12-2020,10103,LL,Cochamó,46,0
 13-06-2020,10104,LL,Fresia,1,1
 14-06-2020,10104,LL,Fresia,2,1
 15-06-2020,10104,LL,Fresia,2,0
@@ -65100,6 +65347,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10104,LL,Fresia,327,7
 14-12-2020,10104,LL,Fresia,327,0
 15-12-2020,10104,LL,Fresia,329,2
+16-12-2020,10104,LL,Fresia,329,0
 03-04-2020,10105,LL,Frutillar,1,1
 04-04-2020,10105,LL,Frutillar,1,0
 05-04-2020,10105,LL,Frutillar,2,1
@@ -65357,6 +65605,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10105,LL,Frutillar,552,3
 14-12-2020,10105,LL,Frutillar,553,1
 15-12-2020,10105,LL,Frutillar,553,0
+16-12-2020,10105,LL,Frutillar,559,6
 25-03-2020,10106,LL,Los Muermos,1,1
 26-03-2020,10106,LL,Los Muermos,1,0
 27-03-2020,10106,LL,Los Muermos,1,0
@@ -65623,6 +65872,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10106,LL,Los Muermos,557,1
 14-12-2020,10106,LL,Los Muermos,558,1
 15-12-2020,10106,LL,Los Muermos,565,7
+16-12-2020,10106,LL,Los Muermos,566,1
 10-04-2020,10107,LL,Llanquihue,1,1
 11-04-2020,10107,LL,Llanquihue,1,0
 12-04-2020,10107,LL,Llanquihue,1,0
@@ -65873,6 +66123,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10107,LL,Llanquihue,481,0
 14-12-2020,10107,LL,Llanquihue,488,7
 15-12-2020,10107,LL,Llanquihue,493,5
+16-12-2020,10107,LL,Llanquihue,494,1
 10-04-2020,10108,LL,Maullín,1,1
 11-04-2020,10108,LL,Maullín,1,0
 12-04-2020,10108,LL,Maullín,1,0
@@ -66123,6 +66374,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10108,LL,Maullín,627,1
 14-12-2020,10108,LL,Maullín,627,0
 15-12-2020,10108,LL,Maullín,633,6
+16-12-2020,10108,LL,Maullín,634,1
 19-03-2020,10109,LL,Puerto Varas,1,1
 20-03-2020,10109,LL,Puerto Varas,1,0
 21-03-2020,10109,LL,Puerto Varas,1,0
@@ -66395,6 +66647,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10109,LL,Puerto Varas,921,8
 14-12-2020,10109,LL,Puerto Varas,930,9
 15-12-2020,10109,LL,Puerto Varas,933,3
+16-12-2020,10109,LL,Puerto Varas,934,1
 18-03-2020,10301,LL,Osorno,1,1
 19-03-2020,10301,LL,Osorno,1,0
 20-03-2020,10301,LL,Osorno,2,1
@@ -66668,6 +66921,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10301,LL,Osorno,4416,29
 14-12-2020,10301,LL,Osorno,4442,26
 15-12-2020,10301,LL,Osorno,4468,26
+16-12-2020,10301,LL,Osorno,4492,24
 28-03-2020,10302,LL,Puerto Octay,1,1
 29-03-2020,10302,LL,Puerto Octay,1,0
 30-03-2020,10302,LL,Puerto Octay,1,0
@@ -66931,6 +67185,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10302,LL,Puerto Octay,251,0
 14-12-2020,10302,LL,Puerto Octay,251,0
 15-12-2020,10302,LL,Puerto Octay,251,0
+16-12-2020,10302,LL,Puerto Octay,252,1
 02-04-2020,10303,LL,Purranque,4,4
 03-04-2020,10303,LL,Purranque,5,1
 04-04-2020,10303,LL,Purranque,5,0
@@ -67189,6 +67444,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10303,LL,Purranque,666,9
 14-12-2020,10303,LL,Purranque,673,7
 15-12-2020,10303,LL,Purranque,679,6
+16-12-2020,10303,LL,Purranque,683,4
 20-03-2020,10304,LL,Puyehue,1,1
 21-03-2020,10304,LL,Puyehue,1,0
 22-03-2020,10304,LL,Puyehue,1,0
@@ -67460,6 +67716,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10304,LL,Puyehue,215,1
 14-12-2020,10304,LL,Puyehue,216,1
 15-12-2020,10304,LL,Puyehue,218,2
+16-12-2020,10304,LL,Puyehue,219,1
 28-03-2020,10305,LL,Río Negro,1,1
 29-03-2020,10305,LL,Río Negro,1,0
 30-03-2020,10305,LL,Río Negro,1,0
@@ -67723,6 +67980,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10305,LL,Río Negro,394,1
 14-12-2020,10305,LL,Río Negro,397,3
 15-12-2020,10305,LL,Río Negro,401,4
+16-12-2020,10305,LL,Río Negro,404,3
 04-04-2020,10306,LL,San Juan de la Costa,7,7
 05-04-2020,10306,LL,San Juan de la Costa,7,0
 06-04-2020,10306,LL,San Juan de la Costa,7,0
@@ -67979,6 +68237,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10306,LL,San Juan de la Costa,444,1
 14-12-2020,10306,LL,San Juan de la Costa,446,2
 15-12-2020,10306,LL,San Juan de la Costa,446,0
+16-12-2020,10306,LL,San Juan de la Costa,448,2
 27-03-2020,10307,LL,San Pablo,1,1
 28-03-2020,10307,LL,San Pablo,1,0
 29-03-2020,10307,LL,San Pablo,1,0
@@ -68243,6 +68502,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10307,LL,San Pablo,204,5
 14-12-2020,10307,LL,San Pablo,207,3
 15-12-2020,10307,LL,San Pablo,207,0
+16-12-2020,10307,LL,San Pablo,208,1
 26-03-2020,10201,LL,Castro,1,1
 27-03-2020,10201,LL,Castro,1,0
 28-03-2020,10201,LL,Castro,1,0
@@ -68508,6 +68768,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10201,LL,Castro,606,2
 14-12-2020,10201,LL,Castro,611,5
 15-12-2020,10201,LL,Castro,611,0
+16-12-2020,10201,LL,Castro,611,0
 08-04-2020,10202,LL,Ancud,2,2
 09-04-2020,10202,LL,Ancud,3,1
 10-04-2020,10202,LL,Ancud,3,0
@@ -68760,6 +69021,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10202,LL,Ancud,668,11
 14-12-2020,10202,LL,Ancud,673,5
 15-12-2020,10202,LL,Ancud,677,4
+16-12-2020,10202,LL,Ancud,679,2
 04-07-2020,10203,LL,Chonchi,1,1
 05-07-2020,10203,LL,Chonchi,1,0
 06-07-2020,10203,LL,Chonchi,1,0
@@ -68925,6 +69187,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10203,LL,Chonchi,467,3
 14-12-2020,10203,LL,Chonchi,469,2
 15-12-2020,10203,LL,Chonchi,469,0
+16-12-2020,10203,LL,Chonchi,471,2
 26-06-2020,10204,LL,Curaco de Vélez,1,1
 27-06-2020,10204,LL,Curaco de Vélez,2,1
 28-06-2020,10204,LL,Curaco de Vélez,7,5
@@ -69098,6 +69361,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10204,LL,Curaco de Vélez,53,6
 14-12-2020,10204,LL,Curaco de Vélez,55,2
 15-12-2020,10204,LL,Curaco de Vélez,55,0
+16-12-2020,10204,LL,Curaco de Vélez,55,0
 21-05-2020,10205,LL,Dalcahue,2,2
 22-05-2020,10205,LL,Dalcahue,2,0
 23-05-2020,10205,LL,Dalcahue,6,4
@@ -69307,6 +69571,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10205,LL,Dalcahue,218,2
 14-12-2020,10205,LL,Dalcahue,219,1
 15-12-2020,10205,LL,Dalcahue,220,1
+16-12-2020,10205,LL,Dalcahue,220,0
 19-06-2020,10208,LL,Quellón,3,3
 20-06-2020,10208,LL,Quellón,3,0
 21-06-2020,10208,LL,Quellón,3,0
@@ -69487,6 +69752,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10208,LL,Quellón,190,1
 14-12-2020,10208,LL,Quellón,194,4
 15-12-2020,10208,LL,Quellón,194,0
+16-12-2020,10208,LL,Quellón,200,6
 20-05-2020,10209,LL,Quemchi,1,1
 21-05-2020,10209,LL,Quemchi,1,0
 22-05-2020,10209,LL,Quemchi,4,3
@@ -69697,6 +69963,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10209,LL,Quemchi,167,2
 14-12-2020,10209,LL,Quemchi,166,-1
 15-12-2020,10209,LL,Quemchi,166,0
+16-12-2020,10209,LL,Quemchi,166,0
 26-03-2020,10210,LL,Quinchao,1,1
 27-03-2020,10210,LL,Quinchao,1,0
 28-03-2020,10210,LL,Quinchao,1,0
@@ -69962,6 +70229,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10210,LL,Quinchao,109,0
 14-12-2020,10210,LL,Quinchao,111,2
 15-12-2020,10210,LL,Quinchao,113,2
+16-12-2020,10210,LL,Quinchao,113,0
 30-03-2020,10403,LL,Hualaihué,1,1
 31-03-2020,10403,LL,Hualaihué,3,2
 01-04-2020,10403,LL,Hualaihué,3,0
@@ -70223,6 +70491,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10403,LL,Hualaihué,271,0
 14-12-2020,10403,LL,Hualaihué,271,0
 15-12-2020,10403,LL,Hualaihué,271,0
+16-12-2020,10403,LL,Hualaihué,272,1
 01-04-2020,10401,LL,Chaitén,1,1
 02-04-2020,10401,LL,Chaitén,1,0
 03-04-2020,10401,LL,Chaitén,1,0
@@ -70482,6 +70751,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10401,LL,Chaitén,16,0
 14-12-2020,10401,LL,Chaitén,16,0
 15-12-2020,10401,LL,Chaitén,16,0
+16-12-2020,10401,LL,Chaitén,16,0
 17-08-2020,10404,LL,Palena,1,1
 18-08-2020,10404,LL,Palena,1,0
 05-09-2020,10402,LL,Futaleufú,1,1
@@ -70562,6 +70832,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10402,LL,Futaleufú,4,0
 14-12-2020,10402,LL,Futaleufú,4,0
 15-12-2020,10402,LL,Futaleufú,4,0
+16-12-2020,10402,LL,Futaleufú,4,0
 12-09-2020,10206,LL,Puqueldón,1,1
 13-09-2020,10206,LL,Puqueldón,1,0
 14-09-2020,10206,LL,Puqueldón,1,0
@@ -70657,6 +70928,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10206,LL,Puqueldón,80,0
 14-12-2020,10206,LL,Puqueldón,80,0
 15-12-2020,10206,LL,Puqueldón,80,0
+16-12-2020,10206,LL,Puqueldón,81,1
 11-09-2020,10207,LL,Queilén,1,1
 12-09-2020,10207,LL,Queilén,1,0
 13-09-2020,10207,LL,Queilén,1,0
@@ -70753,6 +71025,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10207,LL,Queilén,125,0
 14-12-2020,10207,LL,Queilén,125,0
 15-12-2020,10207,LL,Queilén,125,0
+16-12-2020,10207,LL,Queilén,125,0
 18-03-2020,10999,LL,Barco Silver Explorer,5,5
 19-03-2020,10999,LL,Barco Silver Explorer,13,8
 20-03-2020,10999,LL,Barco Silver Explorer,15,2
@@ -71026,6 +71299,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,10999,LL,Barco Silver Explorer,21,0
 14-12-2020,10999,LL,Barco Silver Explorer,21,0
 15-12-2020,10999,LL,Barco Silver Explorer,21,0
+16-12-2020,10999,LL,Barco Silver Explorer,21,0
 26-03-2020,11101,AI,Coyhaique,1,1
 27-03-2020,11101,AI,Coyhaique,1,0
 28-03-2020,11101,AI,Coyhaique,1,0
@@ -71291,6 +71565,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11101,AI,Coyhaique,1150,6
 14-12-2020,11101,AI,Coyhaique,1152,2
 15-12-2020,11101,AI,Coyhaique,1154,2
+16-12-2020,11101,AI,Coyhaique,1164,10
 30-03-2020,11201,AI,Aysén,1,1
 31-03-2020,11201,AI,Aysén,1,0
 01-04-2020,11201,AI,Aysén,1,0
@@ -71552,6 +71827,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11201,AI,Aysén,169,1
 14-12-2020,11201,AI,Aysén,170,1
 15-12-2020,11201,AI,Aysén,170,0
+16-12-2020,11201,AI,Aysén,170,0
 04-11-2020,11301,AI,Cochrane,1,1
 05-11-2020,11301,AI,Cochrane,1,0
 06-11-2020,11301,AI,Cochrane,1,0
@@ -71594,6 +71870,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11301,AI,Cochrane,5,0
 14-12-2020,11301,AI,Cochrane,5,0
 15-12-2020,11301,AI,Cochrane,5,0
+16-12-2020,11301,AI,Cochrane,5,0
 28-09-2020,11402,AI,Río Ibáñez,1,1
 29-09-2020,11402,AI,Río Ibáñez,1,0
 30-09-2020,11402,AI,Río Ibáñez,1,0
@@ -71673,6 +71950,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11402,AI,Río Ibáñez,8,0
 14-12-2020,11402,AI,Río Ibáñez,8,0
 15-12-2020,11402,AI,Río Ibáñez,8,0
+16-12-2020,11402,AI,Río Ibáñez,8,0
 05-12-2020,11302,AI,O'Higgins,1,1
 06-12-2020,11302,AI,O'Higgins,1,0
 07-12-2020,11302,AI,O'Higgins,3,2
@@ -71684,6 +71962,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11302,AI,O'Higgins,4,0
 14-12-2020,11302,AI,O'Higgins,4,0
 15-12-2020,11302,AI,O'Higgins,4,0
+16-12-2020,11302,AI,O'Higgins,4,0
 05-04-2020,11401,AI,Chile Chico,1,1
 06-04-2020,11401,AI,Chile Chico,1,0
 07-04-2020,11401,AI,Chile Chico,1,0
@@ -71939,6 +72218,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11401,AI,Chile Chico,40,0
 14-12-2020,11401,AI,Chile Chico,40,0
 15-12-2020,11401,AI,Chile Chico,40,0
+16-12-2020,11401,AI,Chile Chico,40,0
 10-06-2020,11203,AI,Guaitecas,1,1
 11-06-2020,11203,AI,Guaitecas,1,0
 12-06-2020,11203,AI,Guaitecas,1,0
@@ -72128,6 +72408,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11203,AI,Guaitecas,4,0
 14-12-2020,11203,AI,Guaitecas,4,0
 15-12-2020,11203,AI,Guaitecas,4,0
+16-12-2020,11203,AI,Guaitecas,4,0
 19-09-2020,11202,AI,Cisnes,1,1
 20-09-2020,11202,AI,Cisnes,1,0
 21-09-2020,11202,AI,Cisnes,1,0
@@ -72216,6 +72497,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11202,AI,Cisnes,88,1
 14-12-2020,11202,AI,Cisnes,88,0
 15-12-2020,11202,AI,Cisnes,88,0
+16-12-2020,11202,AI,Cisnes,88,0
 14-03-2020,11303,AI,Tortel,1,1
 15-03-2020,11303,AI,Tortel,1,0
 16-03-2020,11303,AI,Tortel,1,0
@@ -72493,6 +72775,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,11303,AI,Tortel,1,0
 14-12-2020,11303,AI,Tortel,1,0
 15-12-2020,11303,AI,Tortel,1,0
+16-12-2020,11303,AI,Tortel,1,0
 17-03-2020,12101,MA,Punta Arenas,2,2
 18-03-2020,12101,MA,Punta Arenas,2,0
 19-03-2020,12101,MA,Punta Arenas,2,0
@@ -72767,6 +73050,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12101,MA,Punta Arenas,13094,68
 14-12-2020,12101,MA,Punta Arenas,13183,89
 15-12-2020,12101,MA,Punta Arenas,13243,60
+16-12-2020,12101,MA,Punta Arenas,13284,41
 28-03-2020,12401,MA,Natales,1,1
 29-03-2020,12401,MA,Natales,1,0
 30-03-2020,12401,MA,Natales,3,2
@@ -73030,6 +73314,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12401,MA,Natales,1566,6
 14-12-2020,12401,MA,Natales,1593,27
 15-12-2020,12401,MA,Natales,1604,11
+16-12-2020,12401,MA,Natales,1612,8
 25-03-2020,12201,MA,Cabo de Hornos,2,2
 26-03-2020,12201,MA,Cabo de Hornos,2,0
 27-03-2020,12201,MA,Cabo de Hornos,2,0
@@ -73296,6 +73581,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12201,MA,Cabo de Hornos,197,35
 14-12-2020,12201,MA,Cabo de Hornos,197,0
 15-12-2020,12201,MA,Cabo de Hornos,197,0
+16-12-2020,12201,MA,Cabo de Hornos,197,0
 28-09-2020,12102,MA,Laguna Blanca,2,2
 29-09-2020,12102,MA,Laguna Blanca,2,0
 30-09-2020,12102,MA,Laguna Blanca,2,0
@@ -73375,6 +73661,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12102,MA,Laguna Blanca,9,0
 14-12-2020,12102,MA,Laguna Blanca,9,0
 15-12-2020,12102,MA,Laguna Blanca,9,0
+16-12-2020,12102,MA,Laguna Blanca,9,0
 03-11-2020,12103,MA,Río Verde,2,2
 04-11-2020,12103,MA,Río Verde,2,0
 05-11-2020,12103,MA,Río Verde,2,0
@@ -73418,6 +73705,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12103,MA,Río Verde,3,0
 14-12-2020,12103,MA,Río Verde,3,0
 15-12-2020,12103,MA,Río Verde,3,0
+16-12-2020,12103,MA,Río Verde,3,0
 29-09-2020,12402,MA,Torres del Paine,2,2
 30-09-2020,12402,MA,Torres del Paine,2,0
 01-10-2020,12402,MA,Torres del Paine,2,0
@@ -73496,6 +73784,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12402,MA,Torres del Paine,4,0
 14-12-2020,12402,MA,Torres del Paine,4,0
 15-12-2020,12402,MA,Torres del Paine,4,0
+16-12-2020,12402,MA,Torres del Paine,4,0
 13-04-2020,12302,MA,Primavera,1,1
 14-04-2020,12302,MA,Primavera,1,0
 15-04-2020,12302,MA,Primavera,1,0
@@ -73743,6 +74032,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12302,MA,Primavera,25,0
 14-12-2020,12302,MA,Primavera,27,2
 15-12-2020,12302,MA,Primavera,27,0
+16-12-2020,12302,MA,Primavera,27,0
 27-09-2020,12303,MA,Timaukel,1,1
 28-09-2020,12303,MA,Timaukel,1,0
 29-09-2020,12303,MA,Timaukel,1,0
@@ -73823,6 +74113,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12303,MA,Timaukel,20,0
 14-12-2020,12303,MA,Timaukel,20,0
 15-12-2020,12303,MA,Timaukel,20,0
+16-12-2020,12303,MA,Timaukel,20,0
 05-05-2020,12104,MA,San Gregorio,1,1
 06-05-2020,12104,MA,San Gregorio,1,0
 07-05-2020,12104,MA,San Gregorio,1,0
@@ -74048,6 +74339,7 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12104,MA,San Gregorio,26,0
 14-12-2020,12104,MA,San Gregorio,27,1
 15-12-2020,12104,MA,San Gregorio,27,0
+16-12-2020,12104,MA,San Gregorio,27,0
 31-03-2020,12301,MA,Porvenir,1,1
 01-04-2020,12301,MA,Porvenir,2,1
 02-04-2020,12301,MA,Porvenir,3,1
@@ -74308,3 +74600,4 @@ Fecha,CUT,Region,Comuna,Confirmados Acumulados,Nuevos Confirmados
 13-12-2020,12301,MA,Porvenir,473,0
 14-12-2020,12301,MA,Porvenir,477,4
 15-12-2020,12301,MA,Porvenir,477,0
+16-12-2020,12301,MA,Porvenir,480,3
